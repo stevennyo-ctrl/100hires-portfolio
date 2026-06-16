@@ -15,4 +15,3 @@ This repository documents the completion of the first step for the 100Hires sele
 ## 3. Issues Encountered & Solutions
 •⁠  ⁠*Issue - Interface Discrepancy*: During initial setup, the default interface loaded directly into the "Cursor Agents" panel instead of the standard terminal editor interface.
 •⁠  ⁠*Solution*: Diagnosed the configuration layout promptly. Resolved the bottleneck by utilizing the operational file menu commands to bypass the onboarding agent stream (⁠ Skip ⁠) and launched a clean ⁠ Open Editor Window ⁠ to reveal the extension marketplace deployment area.
-*
