@@ -16,3 +16,12 @@ This repository documents the completion of the first step for the 100Hires sele
 •⁠  ⁠*Issue - Interface Discrepancy*: During initial setup, the default interface loaded directly into the "Cursor Agents" panel instead of the standard terminal editor interface.
 •⁠  ⁠*Solution*: Diagnosed the configuration layout promptly. Resolved the bottleneck by utilizing the operational file menu commands to bypass the onboarding agent stream (⁠ Skip ⁠) and launched a clean ⁠ Open Editor Window ⁠ to reveal the extension marketplace deployment area.
 *
+## Phase 2: Research Project, Community-Led Growth for B2B SaaS
+
+Following completion of the environment setup, the next phase of this project is a focused research deep dive into **Community-Led Growth for B2B SaaS**.
+
+The goal is to identify 10 high signal practitioners in this space, collect their recent substantive content (LinkedIn posts and YouTube transcripts), and organize the material in a structure that could realistically support a go to market playbook.
+
+Full reasoning for the topic choice and the research approach is documented in [`/research/sources.md`](./research/sources.md).
+
+### Repository Structure
