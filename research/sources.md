@@ -203,6 +203,22 @@ What I kept: operators who show their work.
 
 ## File Map
 
+Repository structure:
+
+    research/
+    ├── linkedin-posts/        # 10 files, 3 posts per expert (30 total)
+    │   ├── david-spinks.md
+    │   ├── rosie-sherry.md
+    │   └── ... (8 more)
+    ├── youtube-transcripts/   # 6 files, 11 transcripts total
+    │   ├── david-spinks.md
+    │   ├── erica-kuhl.md
+    │   ├── joel-primack.md
+    │   ├── brian-oblinger.md
+    │   ├── lloyed-lobo.md
+    │   └── mike-rizzo.md
+    └── other/                 # supplementary blogs and newsletters
+
 ---
 
 ## What I Skipped and Why
