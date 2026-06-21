@@ -1,4 +1,4 @@
-
+# Mike Rizzo — LinkedIn Posts
 **Profile**: https://www.linkedin.com/in/mikedrizzo/
 **Role**: Community-led Founder & CEO @ MarketingOps.com and MO Pros (20,000+ Marketing Operations, GTM Ops, and Revenue Ops professionals); co-host of Ops Cast podcast; founder of Mops-Apalooza in-person conference
 **Collected**: 2026-06-21

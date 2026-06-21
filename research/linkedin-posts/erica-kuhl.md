@@ -1,3 +1,4 @@
+# Erica Kuhl - LinkedIn Posts
 **Profile**: https://www.linkedin.com/in/ericakuhl/
 **Role**: EVP & GM at Gainsight, leading Community, Customer Education, CS, and PX. Previously built the Salesforce Trailblazer Community from 0 to 3M members.
 **Collected**: 2026-06-21

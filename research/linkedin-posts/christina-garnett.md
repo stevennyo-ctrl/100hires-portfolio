@@ -1,3 +1,4 @@
+# Christina Garnett - LinkedIn Posts
 **Profile**: https://www.linkedin.com/in/christinamgarnett/
 **Role**: Customer Trust Theorist researching why trust breaks and how brands rebuild it. Fractional CCO. Author of "Transforming Customer-Brand Relationships" and creator of the Customer Trust Equation. Bylines in Adweek and Campaign US. Previously at HubSpot.
 **Collected**: 2026-06-21

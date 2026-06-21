@@ -1,3 +1,4 @@
+# Brian Oblinger - LinkedIn Posts
 **Profile**: https://www.linkedin.com/in/brianoblinger/
 **Role**: Strategy Consultant for Community, Customer Marketing, and Advocacy in the AI era. Host of "In Before the Lock" podcast. Founder of Community Strategy Academy. Personal site: brianoblinger.com.
 **Collected**: 2026-06-21

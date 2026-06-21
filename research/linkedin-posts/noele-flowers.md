@@ -1,3 +1,4 @@
+# Noele Flowers - LinkedIn Posts
 **Profile**: https://www.linkedin.com/in/noeleflowers/
 **Role**: Community Director at Articulate. Previously independent community consultant, with prior community roles at Commsor and Teachable.
 **Collected**: 2026-06-21

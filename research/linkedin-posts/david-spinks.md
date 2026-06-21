@@ -1,3 +1,4 @@
+# David Spinks — LinkedIn Posts
 **Profile**: https://www.linkedin.com/in/davidspinks/
 **Role**: Co-founder CMX, independent community coach, author of "The Business of Belonging"
 **Collected**: 2026-06-21

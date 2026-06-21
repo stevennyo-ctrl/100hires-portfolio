@@ -1,3 +1,4 @@
+# Joel Primack — LinkedIn Posts
 **Profile**: https://www.linkedin.com/in/joel-primack/
 **Role**: Community @ Salesforce (Storyteller at Scale through Community), Podcast Host @ The Community-Led Growth Show, formerly Community Marketing at Postscript and Lattice
 **Collected**: 2026-06-21

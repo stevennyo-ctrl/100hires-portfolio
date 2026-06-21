@@ -1,3 +1,4 @@
+# Rosie Sherry — LinkedIn Posts
 **Profile**: https://www.linkedin.com/in/rosiesherry/
 **Role**: Founder of Rosieland community, founder of Ministry of Testing (MoT) and the MoTaverse, community researcher and writer
 **Collected**: 2026-06-21

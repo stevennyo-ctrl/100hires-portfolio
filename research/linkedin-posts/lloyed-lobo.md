@@ -1,3 +1,4 @@
+# Lloyed Lobo — LinkedIn Posts
 **Profile**: https://www.linkedin.com/in/lloyedlobo/
 **Role**: Co-founder of Boast.ai (bootstrapped to $10M+ ARR), co-founder of Traction community (120,000+ subscribers), WSJ bestselling author of "From Grassroots to Greatness: 13 Rules to Build Iconic Brands with Community-Led Growth"
 **Collected**: 2026-06-21
