@@ -1,5 +1,5 @@
 # Mac Reddin - LinkedIn Posts
-**Profile**: https://www.linkedin.com/in/macreddin/
+**Profile**: https://www.linkedin.com/in/mac-reddin/
 **Role**: CEO and Co-Founder of Commsor. Pioneer in Community-Led Growth infrastructure and B2B relationship networks.
 **Collected**: 2026-06-21
 
@@ -7,9 +7,9 @@
 
 ## Post 1 - Beyond basic merch: thoughtful gifting as a B2B demand gen play
 
-**Date**: ~June 2026 (1 week ago)
-**Link**: https://www.linkedin.com/posts/macreddin_anyone-who-says-merch-and-gifting-doesnt-activity-7463567839352410112-aBCd
-**Engagement**: 82 reactions, 26 comments, 1 share
+**Date**: ~December 2025 (6 months ago)
+**Link**: https://www.linkedin.com/posts/mac-reddin_anyone-who-says-merch-and-gifting-doesnt-activity-7402341532378259456-Hj-g?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFZQPK8BcXnoBwVbAgFxMUiN2Lddij6pz3k
+**Engagement**: 54 reactions, 16 comments
 
 Anyone who says merch and gifting doesn't work in B2B still thinks it means slapping your logo on a t-shirt and calling it a day.
 
@@ -29,9 +29,9 @@ Thoughtful gifting with actual usability and actual quality is still one of the 
 
 ## Post 2 - The physical print test: a litmus test for B2B SaaS content quality in the AI era
 
-**Date**: ~June 2026 (1 week ago)
-**Link**: https://www.linkedin.com/posts/macreddin_everyones-talking-about-the-death-of-content-activity-7463214592019382272-eFGh
-**Engagement**: 82 reactions, 26 comments, 1 share
+**Date**: ~August 2025 (10 months ago)
+**Link**: https://www.linkedin.com/posts/mac-reddin_everyones-talking-about-the-death-of-content-activity-7358831829581201408-aPfy?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFZQPK8BcXnoBwVbAgFxMUiN2Lddij6pz3k
+**Engagement**: 59 reactions, 38 comments, 1 share
 
 Everyones talking about the death of content and SEO thanks to AI, but they're all missing something important.
 
@@ -61,9 +61,9 @@ And for the first 25 to comment, I'll also send you a physical copy along with t
 
 ## Post 3 - Scaling community networks through warm introductions over cold outreach
 
-**Date**: ~June 2026 (1 hour ago)
-**Link**: https://www.linkedin.com/posts/macreddin_there-are-three-ways-to-market-you-can-activity-7464319401926291456-iJKL
-**Engagement**: 167 reactions, 24 comments
+**Date**: ~June 2025 (1 year ago)
+**Link**: https://www.linkedin.com/posts/mac-reddin_there-are-three-ways-to-market-you-can-educate-activity-7325853188278894592-DevT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFZQPK8BcXnoBwVbAgFxMUiN2Lddij6pz3k
+**Engagement**: 16 reactions, 4 comments
 
 There are three ways to market. You can educate your buyers, you can make your buyers laugh, or you can make your buyers feel something.
 
