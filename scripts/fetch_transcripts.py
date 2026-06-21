@@ -168,7 +168,55 @@ VIDEOS = [
         "context": "Joel interviews Joe Huber on Sprout Social's customer community strategy.",
         "why": "Second Joel episode for triangulation. Sprout Social is mid-market SaaS, closer in scale to typical 100Hires-target companies."
     },
-    # Add more below once URLs are confirmed for Lloyed, Brian, Mike
+    {
+        "expert": "Lloyed Lobo",
+        "title": "How To Scale With Community Led Growth",
+        "url": "https://www.youtube.com/watch?v=cGKLOVi6plw",
+        "context": "Lloyed di Traction podcast bahas tactical playbook scaling community-led growth.",
+        "why": "Lloyed praktisi paling tactical untuk bootstrapped B2B SaaS. Boast.AI ke $10M ARR purely lewat community, no paid marketing. Most direct match untuk 100Hires reality."
+    },
+    {
+        "expert": "Lloyed Lobo",
+        "title": "The Ultimate Guide to Community Led Growth",
+        "url": "https://www.youtube.com/watch?v=0RT-rwn2zLk",
+        "context": "Talk panjang dari Lloyed tentang bagaimana Boast.AI bootstrap ke 8-figure pakai community sebagai growth engine.",
+        "why": "Comprehensive walkthrough framework Lloyed. Lebih dalam dari LinkedIn posts, cover full playbook dari 0 ke scale."
+    },
+    {
+        "expert": "Brian Oblinger",
+        "title": "What Brian Oblinger Learned from 20 Years of Building Top Brand Communities",
+        "url": "https://www.youtube.com/watch?v=mJNswTnuzPU",
+        "context": "Brian share lessons dari 2 dekade bangun community untuk brand-brand besar. Founder Community Strategy Academy.",
+        "why": "Brian senior operator yang sudah bangun community di multiple brands. Career retrospective ini kasih meta-pattern yang tidak ada di tactical posts."
+    },
+    {
+        "expert": "Brian Oblinger",
+        "title": "Make it Stick: Keep your Community by Measuring Value not just ROI (CMX Summit 2022)",
+        "url": "https://www.youtube.com/watch?v=zSYTmHtBZV0",
+        "context": "Brian Oblinger dan Jonathan Wishart di CMX Summit 2022 bahas kenapa value (bukan cuma ROI) yang harus diukur untuk justify community spend.",
+        "why": "Talk panjang dari conference paling kredibel di community space (CMX Summit). Tackle pertanyaan eksekutif paling sulit: bagaimana defend community budget. Critical untuk B2B SaaS."
+    },
+    {
+        "expert": "Brian Oblinger",
+        "title": "Launching Your Virtual Community with Erica Kuhl (CMX Summit 2020)",
+        "url": "https://www.youtube.com/watch?v=PV56MptjkZk",
+        "context": "Brian dan Erica Kuhl masterclass di CMX Summit 2020 tentang launching community dari awal: SPACES model, peluncuran step-by-step, common mistakes.",
+        "why": "Dua expert dalam satu video. Mereka cover full pre-launch playbook. Both Brian dan Erica praktisi lapangan, jadi insights actionable untuk early-stage B2B SaaS."
+    },
+    {
+        "expert": "Mike Rizzo",
+        "title": "Why MarketingOps Is More Than Marketing",
+        "url": "https://www.youtube.com/watch?v=HM2W9Yp_krI",
+        "context": "Mike argue MOps adalah product function, bukan cuma marketing. Discusses MarketingOps.com community-led model.",
+        "why": "Mike contoh paling rare: founder yang bangun community DULU, baru product. Reverse PLG. Relevant case untuk pikir community-first GTM."
+    },
+    {
+        "expert": "Mike Rizzo",
+        "title": "Mike Rizzo on Leveraging Community for Marketing Ops",
+        "url": "https://www.youtube.com/watch?v=F86vaNkLtLc",
+        "context": "Mike breakdown bagaimana MOps community jadi platform untuk knowledge-sharing dan business development.",
+        "why": "Second Mike interview untuk triangulasi. Lebih tactical, kasih insight bagaimana niche community jadi commercial asset."
+    },
 ]
 
 
