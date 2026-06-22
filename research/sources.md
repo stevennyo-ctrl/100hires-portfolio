@@ -6,7 +6,7 @@ from bootstrapping to scale.
 **Why this topic**: Three reasons.
 1. In an AI-saturated market where landing pages, ads, and content can be 
    generated in minutes, community remains the hardest moat to copy.
-2. 2. Most CLG content is written for consumer brands or enterprise giants. 
+2. Most CLG content is written for consumer brands or enterprise giants. 
    I wanted the operator playbook for small B2B SaaS, the segment most 
    relevant to where junior growth roles actually get hired.
 3. The expert pool is less obvious. Most "growth marketing" guides recycle 
