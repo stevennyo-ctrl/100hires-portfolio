@@ -13,13 +13,13 @@ A community of engaged users cannot.
 ## What's In This Repo
 
 - **10 community operators** I studied (LinkedIn, YouTube, podcasts)
-- **30 LinkedIn posts** — 3 per expert, verbatim with engagement metrics
-- **11 YouTube transcripts** — fetched programmatically via Supadata API
-- **Critical reading notes** — operator credibility + where to be skeptical 
-  per expert (in `sources.md`)
-- **Synthesis** — patterns, tensions, and what's missing in their advice 
-  (in `patterns-and-tensions.md`)
-- **Applied** — what this means for 100Hires specifically 
+- **30 LinkedIn posts**, 3 per expert, verbatim with engagement metrics
+- **10 YouTube transcripts**, fetched programmatically via Supadata API
+- **Critical reading notes** on operator credibility and where to be 
+  skeptical per expert (in `sources.md`)
+- **Synthesis** covering patterns, tensions, and what's missing in their 
+  advice (in `patterns-and-tensions.md`)
+- **Applied** layer for what this means for 100Hires specifically 
   (in `applied-to-100hires.md`)
 
 ---
@@ -27,9 +27,9 @@ A community of engaged users cannot.
 ## How To Navigate
 
 If you only have 5 minutes, read these in order:
-1. `sources.md` — who I studied and why
-2. `patterns-and-tensions.md` — what I learned
-3. `applied-to-100hires.md` — how I'd execute on it
+1. [`sources.md`](research/sources.md): who I studied and why
+2. [`patterns-and-tensions.md`](research/patterns-and-tensions.md): what I learned
+3. [`applied-to-100hires.md`](research/applied-to-100hires.md): how I'd execute on it
 
 The raw collection is in `/research/linkedin-posts/` and 
 `/research/youtube-transcripts/` if you want to verify any claim.
@@ -38,7 +38,7 @@ Repository structure:
 
     research/
     ├── linkedin-posts/        # 10 files, 30 posts total
-    ├── youtube-transcripts/   # 6 files, 11 transcripts total
+    ├── youtube-transcripts/   # 6 files, 10 transcripts total
     ├── other/                 # blogs, newsletters, critiques
     ├── sources.md             # expert list + credibility notes
     ├── patterns-and-tensions.md   # synthesis
@@ -50,7 +50,7 @@ Repository structure:
 
 ## How I Worked
 
-I treated this like a real growth marketing brief: start with a topic 
+I treated this like a real growth marketing brief. Start with a topic 
 hypothesis, gather operator-grade signal, find the patterns, then apply 
 them to a specific business context. Three decisions matter here.
 
@@ -61,22 +61,24 @@ clearer differentiation than "content marketing" or "SEO," and is harder
 to fake with AI.
 
 **2. Expert selection.**  
-Started with ~25 names from initial search. Cut to 10 using three filters: 
-operator credibility (did they actually build a community?), practice what 
-they teach (is their own LinkedIn/YouTube a CLG case study?), and tactical 
-specificity (do they share numbers and playbooks, or just frameworks?). 
-Full notes in `sources.md` including who I dropped and why.
+Started with around 25 names from initial search. Cut to 10 using three 
+filters: operator credibility (did they actually build a community?), 
+practice what they teach (is their own LinkedIn or YouTube a CLG case 
+study?), and tactical specificity (do they share numbers and playbooks, 
+or just frameworks?). Full notes in `sources.md` including who I dropped 
+and why.
 
 **3. Collection method.**  
 LinkedIn posts collected manually because LinkedIn data quality is too 
 context-dependent for scraping. YouTube transcripts collected via Python 
-script using the Supadata API — defendable, reusable, auditable. The 
-script is in `/scripts/fetch_transcripts.py` and runs from a `VIDEOS` 
-list, so adding more sources is one config change away.
+script using the Supadata API. Defendable, reusable, auditable. The 
+script is in [`/scripts/fetch_transcripts.py`](scripts/fetch_transcripts.py) 
+and runs from a `VIDEOS` list, so adding more sources is one config change 
+away.
 
-I deliberately did not chase volume. 11 high-signal transcripts beat 50 
-generic ones. Same logic for LinkedIn — 3 posts per expert was enough to 
-identify pattern, more would have been content padding.
+I deliberately did not chase volume. 10 high-signal transcripts beat 50 
+generic ones. Same logic for LinkedIn. 3 posts per expert was enough to 
+identify pattern. More would have been content padding.
 
 ---
 
@@ -89,7 +91,7 @@ identify pattern, more would have been content padding.
   builder" regulars whose recent content is pure thought leadership got 
   cut. See `sources.md`.
 - **Did not write a "framework."** I am not in a position to define a CLG 
-  framework — David Spinks, Erica Kuhl, and Lloyed Lobo already have. 
+  framework. David Spinks, Erica Kuhl, and Lloyed Lobo already have. 
   Instead I documented where they agree, where they disagree, and what 
   their playbooks are missing.
 
@@ -97,11 +99,11 @@ identify pattern, more would have been content padding.
 
 ## Tools Used
 
-- **Claude Code** (via Cursor IDE) — drafting, code review, search 
-  coordination, structure feedback
-- **Supadata API** — YouTube transcript extraction
-- **Python** (`requests`, `python-dotenv`) — automation script
-- **Git + GitHub** — version control, public deliverable
+- **Claude Code** (via Cursor IDE) for drafting, code review, search 
+  coordination, and structure feedback
+- **Supadata API** for YouTube transcript extraction
+- **Python** (`requests`, `python-dotenv`) for the automation script
+- **Git + GitHub** for version control and public deliverable
 
 ---
 

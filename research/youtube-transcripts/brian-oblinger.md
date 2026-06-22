@@ -3,20 +3,7 @@
 
 ---
 
-## Video 1 - What Brian Oblinger Learned from 20 Years of Building Top Brand Communities
-**Source**: https://www.youtube.com/watch?v=mJNswTnuzPU
-**Context**: Brian share lessons dari 2 dekade bangun community untuk brand-brand besar. Founder Community Strategy Academy.
-
-### Transcript
-
-_Transcript fetch failed: Supadata 404: {"error":"not-found","message":"Not Found","details":"Video not found or unavailable","documentationUrl":"https://docs.supadata.ai/errors/not-found"}_
-
-### Why I picked this
-Brian senior operator yang sudah bangun community di multiple brands. Career retrospective ini kasih meta-pattern yang tidak ada di tactical posts.
-
----
-
-## Video 2 - Make it Stick: Keep your Community by Measuring Value not just ROI (CMX Summit 2022)
+## Video 1 - Make it Stick: Keep your Community by Measuring Value not just ROI (CMX Summit 2022)
 **Source**: https://www.youtube.com/watch?v=zSYTmHtBZV0
 **Context**: Brian Oblinger dan Jonathan Wishart di CMX Summit 2022 bahas kenapa value (bukan cuma ROI) yang harus diukur untuk justify community spend.
 
@@ -29,7 +16,7 @@ Talk panjang dari conference paling kredibel di community space (CMX Summit). Ta
 
 ---
 
-## Video 3 - Launching Your Virtual Community with Erica Kuhl (CMX Summit 2020)
+## Video 2 - Launching Your Virtual Community with Erica Kuhl (CMX Summit 2020)
 **Source**: https://www.youtube.com/watch?v=PV56MptjkZk
 **Context**: Brian dan Erica Kuhl masterclass di CMX Summit 2020 tentang launching community dari awal: SPACES model, peluncuran step-by-step, common mistakes.
 
