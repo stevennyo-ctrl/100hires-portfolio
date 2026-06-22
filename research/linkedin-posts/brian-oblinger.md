@@ -38,7 +38,7 @@ This is the approach I'm all-in on, and so are my clients. Many of the most admi
 
 You can start today, or watch an enlightened competitor take all of your customers while you wait for AI to solve all of your problems.
 
-**Why I picked this**: Cleanest community-as-moat playbook in the set, specifically framed for the AI commoditization scenario 100Hires is operating in. Brian names eight concrete program types instead of generic "build community" language, and the four diagnostic questions (homogenization, AEO impact on demand gen, pricing race, AI fatigue) double as a GTM stress test any small B2B SaaS can run on itself. Direct, prescriptive, and AI-era native.
+**Why I picked this**: Cleanest community-as-moat playbook in the set, specifically framed for the AI commoditization scenario most B2B SaaS is now operating in. Brian names eight concrete program types instead of generic "build community" language, and the four diagnostic questions (homogenization, AEO impact on demand gen, pricing race, AI fatigue) double as a GTM stress test any small B2B SaaS can run on itself. Direct, prescriptive, and AI-era native.
 
 ---
 
@@ -63,7 +63,7 @@ The organizations that are truly leveraging community as a strategic advantage t
 
 Product gets the feedback loops. Marketing gets the stories. CS gets the retention signals. Sales gets the peer-validation engine. Everyone wins!
 
-**Why I picked this**: The clearest cross-functional value pitch for community I have seen anywhere. The six-step flywheel is slide-ready, and the "community insights like product telemetry" reframe is the operator move that separates serious B2B SaaS community teams from event-and-newsletter shops. Every function in the company gets a named asset, which is exactly how a junior growth marketer at 100Hires would need to pitch internal investment to a founder.
+**Why I picked this**: The clearest cross-functional value pitch for community I have seen anywhere. The six-step flywheel is slide-ready, and the "community insights like product telemetry" reframe is the operator move that separates serious B2B SaaS community teams from event-and-newsletter shops. Every function in the company gets a named asset, which is exactly how a junior growth marketer would need to pitch internal community investment to a founder.
 
 ---
 
@@ -91,4 +91,4 @@ Five things that move lurkers to contributors:
 
 You can have the best acquisition program in the world. If the onboarding experience is broken, the math doesn't work.
 
-**Why I picked this**: Brian inverts the default community KPI (registrations) and points at the activation window where the actual leverage lives. Each of the five tactics is specific enough to ship in a sprint: a sub-48-hour first response SLA, persona-based onboarding paths, an early-win mechanic. For a junior growth marketer building a repeatable playbook at 100Hires, this is operator content that maps directly to a contributor activation funnel.
+**Why I picked this**: Brian inverts the default community KPI (registrations) and points at the activation window where the actual leverage lives. Each of the five tactics is specific enough to ship in a sprint: a sub-48-hour first response SLA, persona-based onboarding paths, an early-win mechanic. For a junior growth marketer building a repeatable playbook in B2B SaaS, this is operator content that maps directly to a contributor activation funnel.

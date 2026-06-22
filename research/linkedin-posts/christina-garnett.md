@@ -37,7 +37,7 @@ When a brand changes, rebrands, restructures, or deprioritizes community, custom
 
 They are retention mechanics. Loyalty is relational. It comes from customers who feel seen, whose values align with yours, and who would choose you even without a discount. Brands have spent years building behavioral lock-in and calling it loyalty. When conditions change and the perks go away, so does the relationship, because there was no relationship. Build for connection, not just buying triggers.
 
-**Why I picked this**: Five specific frameworks distilled from her trust research. Each one reframes a common assumption: trust is infrastructure not a reward, friction is a trust withdrawal not just a UX issue, customers form a social body not isolated buyers, anomie causes invisible brand crises, loyalty programs are retention mechanics not actual loyalty. For 100Hires, where trust between platform, recruiter, and candidate is the whole business, all five translate directly to product and growth decisions.
+**Why I picked this**: Five specific frameworks distilled from her trust research. Each one reframes a common assumption: trust is infrastructure not a reward, friction is a trust withdrawal not just a UX issue, customers form a social body not isolated buyers, anomie causes invisible brand crises, loyalty programs are retention mechanics not actual loyalty. For a platform business where trust between multiple parties is the whole product (e.g., recruiting platforms, marketplaces, fintech), all five translate directly to product and growth decisions.
 
 ---
 

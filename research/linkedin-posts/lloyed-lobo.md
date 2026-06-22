@@ -60,7 +60,7 @@ This is more than a book for me. I hope to start a movement... to inspire founde
 
 #community #clg #founder #startup #fromgrassrootstogreatness
 
-**Why I picked this**: This is the credibility post for the entire framework. Lobo names the specific companies he studied (Apple, Atlassian, CrossFit, Duolingo, Harley-Davidson, HubSpot, Gainsight, Peloton, Reddit, Yelp, and others), and grounds his research in 1,000+ leader interviews plus his own seven-year operating record building Boast.ai through the Traction community to $10M ARR. For a 100Hires-style B2B SaaS, the value of this post is the implicit case selection: it confirms that community-led growth is a pattern observed across consumer, vertical SaaS, and even hardware companies, not a niche tactic for one segment.
+**Why I picked this**: This is the credibility post for the entire framework. Lobo names the specific companies he studied (Apple, Atlassian, CrossFit, Duolingo, Harley-Davidson, HubSpot, Gainsight, Peloton, Reddit, Yelp, and others), and grounds his research in 1,000+ leader interviews plus his own seven-year operating record building Boast.ai through the Traction community to $10M ARR. For an SMB B2B SaaS evaluating CLG, the value of this post is the implicit case selection: it confirms that community-led growth is a pattern observed across consumer, vertical SaaS, and even hardware companies, not a niche tactic for one segment.
 
 ---
 

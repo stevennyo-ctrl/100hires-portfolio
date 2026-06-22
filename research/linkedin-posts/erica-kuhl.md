@@ -39,7 +39,7 @@ If you're in it too, you're in the right room.
 
 https://lnkd.in/gKCbcR22
 
-**Why I picked this**: Direct hit for the 100Hires context. The framing that community plus education content becomes the defensible moat once AI answer engines commoditize SEO and cold outreach is exactly the moat argument a small B2B SaaS needs to internalize before they invest. The "would your content show up if Claude or Perplexity got asked about your category today" question is a usable diagnostic, not a thought-leadership line. Recent, specific, operator-grade.
+**Why I picked this**: Direct hit for the AI-native B2B SaaS context. The framing that community plus education content becomes the defensible moat once AI answer engines commoditize SEO and cold outreach is exactly the moat argument a small B2B SaaS needs to internalize before they invest. The "would your content show up if Claude or Perplexity got asked about your category today" question is a usable diagnostic, not a thought-leadership line. Recent, specific, operator-grade.
 
 ---
 

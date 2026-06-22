@@ -63,7 +63,7 @@ community conflation" critique I made in `patterns-and-tensions.md`
 about Lloyed Lobo counting newsletter subscribers as community members. 
 This Rewardful piece explicitly draws the same line.
 
-**Practical takeaway used in `applied-to-100hires.md`**: The "spend 
+**Practical takeaway used in `applied-case-study.md`**: The "spend 
 months joining other people's communities before building one" advice 
 maps directly onto Play 2 (founder-as-model-member). The piece 
 strengthens the case for that play.
@@ -121,8 +121,8 @@ and network effects. The piece is not specifically about CLG, but its
 walked through what community design looks like when AI agents become 
 participants, members, or competitors to community itself. This piece 
 addresses the post-2026 framing more directly. It also provides the 
-"why now" argument for 100Hires specifically: AI is hollowing out the 
-content moat that competitors like Workable and Ashby relied on, so the 
+"why now" argument for SMB B2B SaaS in this market: AI is hollowing out 
+the content moat that previously distinguished competitors, so the 
 community moat becomes structurally more valuable.
 
 **Where to be skeptical**: The piece is bullish on micro-SaaS in general 
@@ -152,5 +152,5 @@ not less.
   `sources.md`. Re-linking primary sources here would be duplicative.
 
 The bar for inclusion was: does this source change a position I take in 
-`patterns-and-tensions.md` or `applied-to-100hires.md`? Four sources 
+`patterns-and-tensions.md` or `applied-case-study.md`? Four sources 
 crossed that bar. Everything else was cut.

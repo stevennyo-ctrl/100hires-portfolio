@@ -61,7 +61,7 @@ Closing Thoughts
 
 ⭐ Community is fun and a people-first profession, so enjoy it and add surprise and delight moments into your work.
 
-**Why I picked this**: This is the strongest single signal in the entire research set, because it is downstream evidence: it reads job descriptions in 2026 to show what the community-led growth function is actually becoming at scaling B2B SaaS companies (Harness, Profound, Cursor, Vercel, Intuit, HubSpot, Stripe, Lovable). The four patterns Primack identifies (Community + Customer Marketing intertwined, AEO/GEO + Community, Program Owners with clear scope, and companies that "see the value INVEST") map exactly onto the question a small B2B SaaS like 100Hires has to answer: what does serious community investment look like at this moment, and who is doing it. For an AI-Native role specifically, the AEO/GEO/LLM Search + Community trend is on-thesis.
+**Why I picked this**: This is the strongest single signal in the entire research set, because it is downstream evidence: it reads job descriptions in 2026 to show what the community-led growth function is actually becoming at scaling B2B SaaS companies (Harness, Profound, Cursor, Vercel, Intuit, HubSpot, Stripe, Lovable). The four patterns Primack identifies (Community + Customer Marketing intertwined, AEO/GEO + Community, Program Owners with clear scope, and companies that "see the value INVEST") map exactly onto the question any small B2B SaaS in this stage has to answer: what does serious community investment look like at this moment, and who is doing it. For an AI-Native role specifically, the AEO/GEO/LLM Search + Community trend is on-thesis.
 
 ---
 

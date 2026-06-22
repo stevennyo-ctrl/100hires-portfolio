@@ -1,12 +1,15 @@
 # Community-Led Growth for B2B SaaS
 
-Research portfolio for the **Junior Growth Marketing Specialist** role 
-at 100Hires (AI-native, remote).
+Research portfolio on **Community-Led Growth (CLG) for B2B SaaS**. 
+Built as a deliverable for the Junior Growth Marketing Specialist role 
+at 100Hires (AI-native, remote), but written to be portable: the 
+methodology, source list, and frameworks apply to any growth role in 
+B2B SaaS where community matters as a long-term moat.
 
-I picked Community-Led Growth (CLG) as the topic because in an AI-saturated 
-market, community is the hardest moat for competitors to replicate. Most 
-landing pages, ad copy, and content can be generated in minutes now. 
-A community of engaged users cannot.
+I picked CLG as the topic because in an AI-saturated market, community 
+is the hardest moat for competitors to replicate. Most landing pages, 
+ad copy, and content can be generated in minutes now. A community of 
+engaged users cannot.
 
 ---
 
@@ -19,8 +22,8 @@ A community of engaged users cannot.
   skeptical per expert (in `sources.md`)
 - **Synthesis** covering patterns, tensions, and what's missing in their 
   advice (in `patterns-and-tensions.md`)
-- **Applied** layer for what this means for 100Hires specifically 
-  (in `applied-to-100hires.md`)
+- **Applied** layer with execution plays (using 100Hires as working example) 
+  (in `applied-case-study.md`)
 
 ---
 
@@ -29,7 +32,7 @@ A community of engaged users cannot.
 If you only have 5 minutes, read these in order:
 1. [`sources.md`](research/sources.md): who I studied and why
 2. [`patterns-and-tensions.md`](research/patterns-and-tensions.md): what I learned
-3. [`applied-to-100hires.md`](research/applied-to-100hires.md): how I'd execute on it
+3. [`applied-case-study.md`](research/applied-case-study.md): how I'd execute on it
 
 The raw collection is in `/research/linkedin-posts/` and 
 `/research/youtube-transcripts/` if you want to verify any claim.
@@ -42,7 +45,7 @@ Repository structure:
     ├── other/                 # blogs, newsletters, critiques
     ├── sources.md             # expert list + credibility notes
     ├── patterns-and-tensions.md   # synthesis
-    └── applied-to-100hires.md     # execution plays
+    └── applied-case-study.md     # execution plays
     scripts/
     └── fetch_transcripts.py   # Python + Supadata API automation
 

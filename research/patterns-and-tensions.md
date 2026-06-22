@@ -101,8 +101,8 @@ If I had to pick one expert per problem:
 - **Mike Rizzo** for the community-as-product mental model. Most 
   underrated framing in the collection.
 
-For the rest: useful contributors, but I would not stake a 100Hires 
-strategy on any one of them alone.
+For the rest: useful contributors, but I would not stake a 
+go-to-market strategy on any one of them alone.
 
 ---
 
@@ -139,7 +139,7 @@ is lead-gen pressure short-circuiting community ROI before it matures.
 - **David Spinks**: Notion's biggest community lives on a subreddit 
   Notion did not create. Advises: "embrace it, don't fight it."
 
-**My read**: For 100Hires-scale companies, start on Slack and migrate 
+**My read**: For SMB-stage B2B SaaS, start on Slack and migrate 
 later. Owned platforms only pay off once you need product-feedback-to-CRM 
 tie-ins or formal data ownership. Neither is urgent in the first 12 months.
 
@@ -217,8 +217,9 @@ they need to be.
 
 ## If I Were Running This Tomorrow, I Would Test
 
-Three plays I would run at an early-stage AI-native company. Detailed 
-in [`applied-to-100hires.md`](applied-to-100hires.md). Summarized here.
+Three plays I would run at an early-stage AI-native B2B SaaS. Detailed 
+application using 100Hires as a working example is in 
+[`applied-case-study.md`](applied-case-study.md). Summarized here.
 
 **1. The "Trojan content" hypothesis.**  
 Build the audience around a topic adjacent to the product (e.g., 
@@ -238,9 +239,10 @@ metric, and the one most easily reported to a CFO.
 
 ---
 
-## What This Means for 100Hires
+## What This Means in Practice
 
-The detailed application is in [`applied-to-100hires.md`](applied-to-100hires.md).
+The detailed application, using 100Hires as a working example, is in 
+[`applied-case-study.md`](applied-case-study.md).
 
 If there is one pattern across all ten operators, it is this: the 
 strongest communities were not built as marketing campaigns. They were 

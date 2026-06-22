@@ -6,9 +6,9 @@ from bootstrapping to scale.
 **Why this topic**: Three reasons.
 1. In an AI-saturated market where landing pages, ads, and content can be 
    generated in minutes, community remains the hardest moat to copy.
-2. Most CLG content is written for consumer brands or enterprise giants. 
-   I wanted the operator playbook for small B2B SaaS, closer to 100Hires 
-   reality.
+2. 2. Most CLG content is written for consumer brands or enterprise giants. 
+   I wanted the operator playbook for small B2B SaaS, the segment most 
+   relevant to where junior growth roles actually get hired.
 3. The expert pool is less obvious. Most "growth marketing" guides recycle 
    the same 5 names. CLG forced me to dig into a different operator network.
 
@@ -120,7 +120,7 @@ What I kept: operators who show their work.
   visibility into what current community he's actively operating.
 - **Best tactical insight from collection**: "8 People-Powered Pillars 
   AI Can't Replicate". Explicit anti-AI moat thinking, directly relevant 
-  to 100Hires' AI-native positioning.
+  to AI-native B2B SaaS positioning.
 - **Sources collected**: 3 LinkedIn posts, 2 YouTube transcripts (note: 
   one video URL returned 404 via Supadata. Substituted with CMX Summit 
   2022 talk on community value measurement).
@@ -245,5 +245,5 @@ backup (CMX Summit talk) and documented the substitution honestly.
 
 This is raw material. The synthesis covering what patterns I found, where 
 the experts disagree, what's missing in their advice, and how this applies 
-to 100Hires is in `/research/patterns-and-tensions.md` and 
-`/research/applied-to-100hires.md`.
+to SMB B2B SaaS is in `/research/patterns-and-tensions.md` and 
+`/research/applied-case-study.md`.

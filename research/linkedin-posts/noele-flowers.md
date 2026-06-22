@@ -19,7 +19,7 @@ Online communities have a superpower. The authenticity, flexibility, and context
 
 We need to think more about that advantage and how to use it. Evan's post here gives a great example of just one possible way that communities can play to their strengths as the search landscape evolves.
 
-**Why I picked this**: Most takes on AI and community get stuck on the threat side, asking whether answer engines will replace forums. Noele argues the opposite. Community conversations carry authenticity, flexibility, and context that static SEO content doesn't, which is exactly what answer engines pull from when they generate responses. For a B2B SaaS like 100Hires building in the AI era, this pairs with Erica Kuhl's moat argument and offers a constructive read on the same shift.
+**Why I picked this**: Most takes on AI and community get stuck on the threat side, asking whether answer engines will replace forums. Noele argues the opposite. Community conversations carry authenticity, flexibility, and context that static SEO content doesn't, which is exactly what answer engines pull from when they generate responses. For any B2B SaaS building in the AI era, this pairs with Erica Kuhl's moat argument and offers a constructive read on the same shift.
 
 ---
 
@@ -39,7 +39,7 @@ Some great principles in this just around the importance of getting really, real
 
 Thanks for the thought-provoking shares, Rich & Evan!
 
-**Why I picked this**: Most community managers post as the "expert admin" sharing articles and best practices. Noele argues that admin behavior actually suppresses member participation, because members can't emulate it. The fix is to study how your best members behave and model that pattern instead. For a B2B SaaS at 100Hires' stage trying to grow a community on a lean team, this reframes what kind of staff participation actually generates more member participation. It also flags a common failure mode where admins broadcasting as experts looks productive but kills contribution.
+**Why I picked this**: Most community managers post as the "expert admin" sharing articles and best practices. Noele argues that admin behavior actually suppresses member participation, because members can't emulate it. The fix is to study how your best members behave and model that pattern instead. For an SMB B2B SaaS trying to grow a community on a lean team, this reframes what kind of staff participation actually generates more member participation. It also flags a common failure mode where admins broadcasting as experts looks productive but kills contribution.
 
 ---
 
@@ -74,4 +74,4 @@ https://lnkd.in/eBSvRURB
 
 Hope to get to work with lots of you during this!
 
-**Why I picked this**: Most community-led growth content stays at the strategy level. This post shows what an actual engagement program looks like when designed by someone who runs them for a living. The structure is reusable for any small B2B SaaS at 100Hires' stage: a one-week timeframe, segmentation into inactive, partially active, and active members, a kickoff workshop, independent tasks with optional live check-ins, and a closing session to systematize what was learned. The post is also a model of honest participant recruiting, with explicit "this is for you if" criteria instead of generic broadcast.
+**Why I picked this**: Most community-led growth content stays at the strategy level. This post shows what an actual engagement program looks like when designed by someone who runs them for a living. The structure is reusable for any small B2B SaaS at the early-community stage: a one-week timeframe, segmentation into inactive, partially active, and active members, a kickoff workshop, independent tasks with optional live check-ins, and a closing session to systematize what was learned. The post is also a model of honest participant recruiting, with explicit "this is for you if" criteria instead of generic broadcast.
