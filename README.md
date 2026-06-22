@@ -109,5 +109,4 @@ identify pattern, more would have been content padding.
 
 Steven Njosaputera  
 Surabaya, Indonesia  
-[https://www.linkedin.com/in/stevennjo/]
-[steven.nyo@gmail.com]
+[LinkedIn](https://www.linkedin.com/in/stevennjo/) · [steven.nyo@gmail.com](mailto:steven.nyo@gmail.com)
