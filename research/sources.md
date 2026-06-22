@@ -95,7 +95,7 @@ What I kept: operators who show their work.
 
 #### 4. Mike Rizzo
 - **Role**: Founder/CEO MarketingOps.com and MO Pros community (4K+ paid 
-  + 20K+ free members).
+  plus 20K+ free members).
 - **Operator credibility**: Rare case of community-first, product-second. 
   Started as Slack channel 2017, became business 2019. Shows pricing 
   ($250/year), member counts, and conference attendance openly.
