@@ -34,8 +34,8 @@ If you only have 5 minutes, read these in order:
 2. [`patterns-and-tensions.md`](research/patterns-and-tensions.md): what I learned
 3. [`applied-case-study.md`](research/applied-case-study.md): how I'd execute on it
 
-The raw collection is in `/research/linkedin-posts/` and 
-`/research/youtube-transcripts/` if you want to verify any claim.
+The raw collection is in [`/research/linkedin-posts/`](research/linkedin-posts/) and 
+[`/research/youtube-transcripts/`](research/youtube-transcripts/) if you want to verify any claim.
 
 Repository structure:
 
@@ -68,7 +68,7 @@ Started with around 25 names from initial search. Cut to 10 using three
 filters: operator credibility (did they actually build a community?), 
 practice what they teach (is their own LinkedIn or YouTube a CLG case 
 study?), and tactical specificity (do they share numbers and playbooks, 
-or just frameworks?). Full notes in `sources.md` including who I dropped 
+or just frameworks?). Full notes in [`sources.md`](research/sources.md) including who I dropped 
 and why.
 
 **3. Collection method.**  
@@ -150,7 +150,7 @@ intentional.
   not volume.
 - **Did not include every famous community name.** Several "Top 10 community 
   builder" regulars whose recent content is pure thought leadership got 
-  cut. See `sources.md`.
+cut. See [`sources.md`](research/sources.md).
 - **Did not write a "framework."** I am not in a position to define a CLG 
   framework. David Spinks, Erica Kuhl, and Lloyed Lobo already have. 
   Instead I documented where they agree, where they disagree, and what 
