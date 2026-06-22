@@ -18,8 +18,7 @@ from bootstrapping to scale.
   script (Phase 3, see `/scripts/fetch_transcripts.py`)
 - Long-form content collected via web research (Phase 4)
 
-**Total**: 10 experts, 30 LinkedIn posts, 10 YouTube transcripts, plus 
-supplementary blogs and newsletters in [`other/`](other/).
+**Total**: 10 experts, 30 LinkedIn posts in [`linkedin-posts/`](linkedin-posts/), 10 YouTube transcripts in [`youtube-transcripts/`](youtube-transcripts/), plus supplementary blogs and newsletters in [`other/`](other/).
 
 ---
 
@@ -243,6 +242,7 @@ backup (CMX Summit talk) and documented the substitution honestly.
 
 ## What This Collection Is For
 
-**Total**: 10 experts, 30 LinkedIn posts in [`linkedin-posts/`](linkedin-posts/), 
-10 YouTube transcripts in [`youtube-transcripts/`](youtube-transcripts/), 
-plus supplementary blogs and newsletters in [`other/`](other/).
+This is raw material. The synthesis covering what patterns I found, where 
+the experts disagree, what's missing in their advice, and how this applies 
+to 100Hires is in [`patterns-and-tensions.md`](patterns-and-tensions.md) and 
+[`applied-case-study.md`](applied-case-study.md).
