@@ -84,6 +84,64 @@ generic ones. Same logic for LinkedIn. 3 posts per expert was enough to
 identify pattern. More would have been content padding.
 
 ---
+## The 10 Experts and Why
+
+The full credibility breakdown and skepticism notes for each are in 
+[`sources.md`](research/sources.md). One-liner reasoning here:
+
+**Tier A — Active operators currently running plays**
+
+1. **Rosie Sherry** (Rosieland, ex-Ministry of Testing). Built and sold 
+   a community, currently runs another. Publishes pricing, member counts, 
+   and workflow experiments openly. Operator showing her work.
+
+2. **Joel Primack** (Salesforce, host of Community-Led Growth Show). 
+   Currently in-role practitioner. His 51-episode podcast interviewing 
+   community ops leaders is one of the best curated CLG corpora I found.
+
+3. **Lloyed Lobo** (Boast.AI, Traction). Verifiable exit. Bootstrapped 
+   to $10M ARR through community. Highest match to early-stage scrappy 
+   reality.
+
+4. **Mike Rizzo** (MarketingOps.com). Rare case of community-first, 
+   product-second. Reframes CLG as building a product, not running 
+   campaigns. Most underrated thinker in the set.
+
+**Tier B — Active practitioner-writers**
+
+5. **Brian Oblinger** (Community Strategy Academy). 20+ years across 
+   multiple brands. His CMX Summit talk on community ROI is the single 
+   best content I found for defending community budget to a CFO.
+
+6. **Noele Flowers** (Articulate, ex-Commsor). Currently in-role. Her 
+   "participate as a model member, not admin" framing counter-intuitive 
+   and actionable.
+
+7. **Christina Garnett** (ex-HubSpot, customer trust theorist). HubSpot 
+   tenure for B2B SaaS scale. Brings sociology grounding most operators 
+   lack.
+
+**Tier C — Foundational operator-veterans**
+
+8. **David Spinks** (CMX, author of *Business of Belonging*). Built the 
+   reference community for the entire industry. His book is cited by 
+   almost every other expert in this list.
+
+9. **Erica Kuhl** (Gainsight, ex-Salesforce). Built Trailblazer from 0 
+   to 3M members over 17 years. Highest-credential community operator 
+   in B2B SaaS history.
+
+10. **Mac Reddin** (Commsor). Builds tooling for community operators. 
+    Has to understand the practice deeply. Commsor pivoted multiple 
+    times, showing his own learning loop.
+
+The selection trades off recency, tactical specificity, and operator 
+credibility. Some experts (David Spinks, Erica Kuhl) are foundational 
+but their tactical playbooks are pre-2022. Others (Joel Primack, Noele 
+Flowers) are currently in-role but less battle-tested. The mix is 
+intentional.
+
+---
 
 ## What I Did Not Do (And Why)
 
