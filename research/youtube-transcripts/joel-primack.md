@@ -26,4 +26,5 @@ our success is predicated upon pretty difficult community metrics uh we look at 
 
 ### Why I picked this
 Second Joel episode for triangulation. Sprout Social is mid-market SaaS, closer in scale to typical SMB-targeting B2B SaaS companies.
+
 ---
