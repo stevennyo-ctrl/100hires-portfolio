@@ -19,7 +19,7 @@ from bootstrapping to scale.
 - Long-form content collected via web research (Phase 4)
 
 **Total**: 10 experts, 30 LinkedIn posts, 10 YouTube transcripts, plus 
-supplementary blogs and newsletters in `/research/other/`.
+supplementary blogs and newsletters in [`other/`](other/).
 
 ---
 
@@ -245,5 +245,5 @@ backup (CMX Summit talk) and documented the substitution honestly.
 
 This is raw material. The synthesis covering what patterns I found, where 
 the experts disagree, what's missing in their advice, and how this applies 
-to SMB B2B SaaS is in `/research/patterns-and-tensions.md` and 
-`/research/applied-case-study.md`.
+to 100Hires is in [`patterns-and-tensions.md`](patterns-and-tensions.md) and 
+[`applied-case-study.md`](applied-case-study.md).
