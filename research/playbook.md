@@ -131,9 +131,9 @@ not volunteer-driven.
 
 **My take: paid staff first, volunteers later.** Culture cannot be 
 delegated. Tone, behavioral expectations, conflict resolution norms, 
-what "good" looks like — all of this needs to be set by paid staff 
+what "good" looks like, all of this needs to be set by paid staff 
 before volunteers can carry it. Lloyed's model works for Traction 
-because Boast.AI had already built brand trust over years. For an 
+because Boast. AI had already built brand trust over years. For an 
 early-stage brand no one knows yet, you need one or two paid 
 community managers to build the playbook first. Volunteers scale it 
 in year two.
