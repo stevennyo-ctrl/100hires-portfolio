@@ -262,7 +262,154 @@ framework, sharper framing.
 
 ## 4. My Original Ideas
 
-*Coming next.*
+Two original ideas below. Both address gaps I identified during research 
+that no expert in my source list explicitly resolved. These ideas are not 
+extractions or syntheses of what the ten experts already teach. They are 
+new contributions I would defend in interview.
+
+### Idea 1: The AI Augmentation Framework for Community Managers
+
+In Section 3 (Rejection 3), I rejected Brian Oblinger's framing that 
+"AI can't replicate 8 pillars of community." What I rejected was the 
+word "can't," not the underlying framework.
+
+This section is the replacement I propose: not "AI can't," but "AI 
+should accelerate operational work so humans can invest more depth in 
+trust-building work." Concrete role division. Actionable Monday morning.
+
+**Why this is original:** No expert in my source list provides concrete 
+AI-human role division for community management. Brian frames AI as 
+threat. Erica Kuhl pivoted to Answer Engine Optimization but has not 
+addressed community-AI integration. Mac Reddin mentions AI generically. 
+Every expert either underplays AI or treats it as binary (either replace 
+or not). This framework fills that gap.
+
+**Why it could work:** The framework is principle-based, not tool-based. 
+It survives AI capability improvements because the split rests on 
+enduring principles (pattern vs person, draft vs edit, analyze vs 
+decide) rather than current tool limitations. Details on defensibility 
+are in the test criteria below.
+
+#### The Split
+
+After observing 14 real work areas of community managers at B2B SaaS 
+startups, I grouped them into three categories: **AI-Heavy**, **Balanced 
+(AI + Human)**, and **Human-Anchored**.
+
+| # | Community Work | AI Role | Human Role | Category |
+|---|---|---|---|---|
+| 1 | Read 300 to 500 messages per day | Summarize and surface high-signal messages | Review AI summary, spot AI's blind spots (sarcasm, context) | AI-Heavy |
+| 2 | Categorize member feedback (pricing, bug, feature, UX) | Auto-cluster and tag | Validate edge cases | AI-Heavy |
+| 3 | Detect spam, promo, off-topic content | First-pass filter | Handle borderline cases where member intent is unclear | AI-Heavy |
+| 4 | Draft newsletter, LinkedIn posts, event copy | Generate first draft | Edit tone, add specific examples, humanize | Balanced |
+| 5 | Build FAQ from repeated questions | Extract patterns from threads | Curate what deserves FAQ status vs one-off | Balanced |
+| 6 | Detect member disengagement | Flag pattern based on activity data | Personal follow-up DM with the right tone | Balanced |
+| 7 | Event topic ideation | Suggest based on member interest patterns | Curate speakers based on trust and timing | Balanced |
+| 8 | Member recognition | Detect contributions worth highlighting | Deliver recognition personally (message from human, not AI-drafted) | Human-Anchored |
+| 9 | Conflict resolution between members | Draft neutral communication template | Decide when to intervene, how to handle relationships | Human-Anchored |
+| 10 | Super user relationship management | Track contribution patterns | Build personal rapport, celebrate specific work, be present in their moments | Human-Anchored |
+| 11 | Community direction and culture decisions | Provide data on member behavior | Decide ICP, kill events, define culture, set boundaries | Human-Anchored |
+
+#### Three Principles Behind the Split
+
+The table is not random assignment. Three principles guide it.
+
+**Principle 1: AI handles pattern, human handles person.**
+
+For pattern recognition work (spam, feedback categorization, engagement 
+drop detection), AI wins on speed and consistency. But when the work 
+transitions from pattern to person (a member who needs personal outreach), 
+human anchor becomes mandatory. Reason: each person has unique context 
+that AI cannot yet fully capture, and the accountability of a real 
+human sender is what makes the outreach land.
+
+**Principle 2: AI drafts, human edits.**
+
+For creative work (newsletter, event copy, member communications), AI 
+is a strong draft engine but not a strong final publisher. My working 
+ratio: AI generates roughly 70% of the first draft, human adds the 
+30% that matters most. The 30% includes specific examples, tone match 
+with community personality, timing, and subtle context that requires 
+lived familiarity with the community.
+
+**Principle 3: AI analyzes, human decides.**
+
+For strategic decisions (community direction, killing an event, 
+defining culture), AI supplies data and analysis. Human makes the call. 
+Reason: strategic decisions involve trade-off judgment with long-term 
+brand implications, not pure optimization. Delegating them to AI is 
+not efficiency. It's abdication.
+
+#### Why This Framework Beats "AI Can't"
+
+Brian Oblinger's framework says AI cannot replicate eight pillars of 
+community. My framework rejects that framing.
+
+| Approach | "AI Can't" | AI Augmentation |
+|---|---|---|
+| Framing | AI as threat | AI as operational leverage |
+| Position | Defensive | Confident |
+| Actionable output | "Protect these 8 areas" | "Split work into 3 categories, act now" |
+| Longevity | Ages poorly as AI capability moves | Ages well because principles are enduring |
+| Fit for AI-native company | Contradictory | Aligned |
+
+For any AI-native B2B SaaS (100Hires as one example among many), the 
+second framework is not optional. A community leader who is defensive 
+toward AI at a company that sells AI is a fatal mismatch.
+
+#### Why This Could Work: Three Tests
+
+An original framework needs to be defensible. Three tests I use to 
+validate this one:
+
+**Test 1: Can a community manager apply this Monday morning?**
+
+Yes. The table above gives explicit assignment per work area. A 
+community manager reads it, then adjusts AI tools and human workflow 
+according to the split. No prerequisite training. No new tool 
+purchase required (most teams already have Claude, ChatGPT, or 
+similar). Adoption cost is a working session, not a project.
+
+**Test 2: Does the framework survive if AI capability doubles next year?**
+
+Yes. The three principles (pattern vs person, draft vs edit, analyze 
+vs decide) are principle-based, not tool-based. Even if AI handles 
+emotional nuance next year, the principle "human handles person for 
+trust-building work" holds because trust requires human accountability, 
+not just technical capability. A recognition message written by AI 
+still lands hollow if the member knows a human did not personally 
+notice their work. That's a property of trust, not technology.
+
+**Test 3: Is this framework strategically right for an AI-native company?**
+
+Yes. The framework is aligned with the positioning of a company that 
+embraces AI. No defensive stance. The community leader is positioned 
+as an AI-augmented operator, not an AI-resistant traditionalist. This 
+is consistent with the brand such a company needs to project.
+
+#### A Sample Day Under This Framework
+
+To illustrate what this looks like in practice, a typical day for a 
+community manager applying this split:
+
+- **Morning:** AI-heavy work. Review AI-generated overnight message 
+  summary and flagged high-signal items. Validate AI's feedback 
+  categorization. Edit AI-drafted newsletter. (~3 hours)
+
+- **Midday:** Balanced work. Personal DMs to disengaged members that 
+  AI flagged. Curate this week's event speakers from AI-suggested 
+  topic list. Maintain FAQ. (~2 hours)
+
+- **Afternoon:** Human-anchored work. Personal check-ins with 2 to 3 
+  super users. Handle 1 conflict escalation between members. Deliver 
+  monthly recognition to top contributor personally. (~3 hours)
+
+Without a framework: 8 hours of mixed operational chaos and burnout.
+
+With this framework: 8 hours of directed work. AI leverage where it 
+compounds. Human depth where it matters.
+
+That is what "AI as operational leverage" looks like in daily practice.
 
 ---
 
