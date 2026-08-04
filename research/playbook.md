@@ -133,7 +133,7 @@ not volunteer-driven.
 delegated. Tone, behavioral expectations, conflict resolution norms, 
 what "good" looks like, all of this needs to be set by paid staff 
 before volunteers can carry it. Lloyed's model works for Traction 
-because Boast. AI had already built brand trust over years. For an 
+because Boast.AI had already built brand trust over years. For an 
 early-stage brand no one knows yet, you need one or two paid 
 community managers to build the playbook first. Volunteers scale it 
 in year two.
@@ -142,7 +142,121 @@ in year two.
 
 ## 3. What I Rejected and Why
 
-*Coming next.*
+Not every idea from these ten experts made it into my playbook. Three 
+specific claims from otherwise-strong operators I explicitly rejected. 
+Rejecting the wrong idea from a respected source matters more than 
+absorbing every idea from every source, because absorbed-uncritically 
+becomes cargo-cult behavior in junior hands.
+
+### Rejection 1: Lloyed Lobo's "$10M ARR through community with zero paid marketing"
+
+This is the central claim of Lloyed's book *From Grassroots to Greatness* 
+and the anchor pitch across his LinkedIn presence. I reject the framing, 
+not the underlying story.
+
+Three reasons:
+
+**The "zero paid" framing oversimplifies the actual cause of success.** 
+Boast.AI's edge was not the absence of paid marketing. Their edge was 
+seven years of relationship, reputation, and audience investment through 
+the Traction conference. Framing this as "zero paid marketing" makes 
+readers misidentify the causal mechanism.
+
+**The claim is nearly impossible to replicate for most startups.** Lloyed 
+built Traction over seven years with 100+ events and a founder network 
+that most early-stage B2B SaaS companies do not have and cannot manufacture 
+on demand. This is not a template. It's a case study of a specific 
+context.
+
+**The framing creates survivorship bias.** Data from CMX's 2025 industry 
+report shows 76% of companies running community programs cannot quantify 
+financial impact. Lloyed's story is the 24%, not the norm. Junior 
+marketers reading his book see the success without seeing the graveyard 
+of failed community-led attempts.
+
+**Implication if a junior takes this at face value:** They may conclude 
+that paid acquisition doesn't matter and pour their limited budget into 
+community. The result: they neglect acquisition channels that better fit 
+their stage. The problem isn't community. It's the expectation that 
+community can substitute for every other growth channel.
+
+The more realistic framing: community is a strong retention lever for 
+existing customers and a slow-compounding acquisition asset over 12 to 
+24 months. ARR growth still requires multiple channels working in parallel.
+
+### Rejection 2: "Value in the wild" as sole measurement (Joe Huber via Joel Primack)
+
+Joe Huber (VP Community at Sprout Social, interviewed on Joel Primack's 
+Community-Led Growth Show) argued for measuring "value in the wild": 
+spotting community members share value with each other without brand 
+involvement is a win, even if you can't measure it precisely.
+
+I don't reject the observation. Members helping each other unsolicited 
+is a genuine sign of community health. What I reject is using "value in 
+the wild" as the primary metric to justify community investment.
+
+**Why this fails at the CFO conversation:** Watching organic member 
+helpfulness is qualitative. It doesn't translate into the language 
+business leadership uses to allocate budget. The predictable failure 
+mode looks like this: a community manager reports "we had 500 helpful 
+interactions this month" to the CFO. The CFO asks "what dollar impact 
+does that represent?" The community manager cannot answer. Six months 
+later, when efficiency pressure hits, community is the first budget cut. 
+Not because it isn't working. Because it can't be argued for in financial 
+terms.
+
+**What must be paired with "value in the wild":** Business metrics like 
+retention rate, support ticket deflection, expansion revenue, referral 
+attribution, and pipeline influence. This gives you both the health 
+indicator (are members thriving?) and the business indicator (does this 
+community pay for itself?). One without the other is either vanity or 
+bureaucracy.
+
+Brian Oblinger's CMX Summit warning applies here directly: "You walk 
+into a CEO's office talking about unique visitors, you're in big trouble." 
+Same logic for "value in the wild" without dollar attribution.
+
+### Rejection 3: Brian Oblinger's "8 pillars AI can't replicate"
+
+Brian Oblinger's framework listing eight elements of community that 
+"AI can't replicate" (trust, identity, mentorship, celebration, conflict 
+resolution, recognition, culture, belonging) is his most-cited recent 
+content. I reject the framing but keep the substance.
+
+**Why "can't" is the wrong word:** The debate is no longer whether AI 
+can or cannot do something. AI capability moves faster than any 
+prediction from 2023 or 2024 stays valid. Absolute statements like 
+"AI can't do X" age poorly, and they position the community leader 
+as defensive against technology rather than in command of it.
+
+**The better framing:** Not "AI can't replicate the human side of 
+community" but "AI should automate operational work so humans can 
+spend more time building trust, relationships, and identity." AI is 
+not the enemy of community. It's the tool that expands what a small 
+community team can actually accomplish.
+
+**Concrete example:** AI can summarize 200 member conversations into a 
+digestible insight document in five minutes. What the human does with 
+that: read the insights, identify members who need personal follow-up, 
+send DMs with the right tone. AI saved five hours of manual reading. 
+The human focused on the work that needs empathy and judgment. Neither 
+was replaced. Both were amplified.
+
+**Why this matters for AI-native companies like 100Hires:** A company 
+whose product is AI-native cannot afford a community framing that 
+positions AI as inherently incapable. That's not just misaligned with 
+the product. It signals to the market that even the community leader 
+sees AI as limited, which contradicts the company's core positioning. 
+An AI-native company doesn't need "AI vs human" narratives. It needs 
+frameworks that show how AI and human effort compound each other. In 
+community, AI accelerates interaction and reduces operational load. 
+Humans build trust, identity, and belonging. That's the framing that 
+serves both the community and the business.
+
+Brian's underlying framework of eight elements remains a useful checklist 
+of areas where human presence matters most. What I reject is the word 
+"can't." Replace it with "should be augmented, not replaced." Same 
+framework, sharper framing.
 
 ---
 
