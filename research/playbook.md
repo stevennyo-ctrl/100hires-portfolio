@@ -413,11 +413,10 @@ That is what "AI as operational leverage" looks like in daily practice.
 
 ### Idea 2: The CFO Translation Layer
 
-Community value is not the problem. Translation is. Most community 
-managers can list ten ways community drives business impact. Almost 
-none can walk into a CFO's office and answer "what dollar impact does 
-that represent?" in a way the CFO can act on. This section is my 
-answer to that gap.
+Most community managers can list ten ways community drives business 
+impact. Almost none can walk into a CFO's office and answer "what 
+dollar impact does that represent?" in a way the CFO can act on. 
+This section is my answer to that gap.
 
 **Why this is original:** Brian Oblinger flagged this exact problem 
 at CMX Summit ("you walk into a CEO's office talking about unique 
@@ -454,8 +453,7 @@ answers to these. Not perfect answers. Real ones.
 
 Community value does not sit inside one department. It leaks into 
 Product, Support, Marketing, Sales, and Customer Success. The core 
-problem is not that community fails to create value. It is that value 
-is never aggregated into a single view.
+problem is that value is never aggregated into a single view.
 
 The Cross-Functional Value Ledger fixes that.
 
@@ -469,8 +467,8 @@ The Cross-Functional Value Ledger fixes that.
 | **Onboarding** | Time-to-value acceleration | CS hours saved × loaded hourly cost | High |
 
 **How to use it:** Fill in numbers monthly. Present quarterly as a 
-single artifact. This is the CFO conversation shifted from "here is 
-what community did" to "here is what community was worth across the 
+single artifact. This shifts the CFO conversation from "here is what 
+community did" to "here is what community was worth across the 
 company."
 
 #### Attribution Confidence Tiers
@@ -515,24 +513,25 @@ feels ownership over the whole. The Ledger fixes exactly this
 problem by consolidating cross-functional value.
 
 **"I could give this budget to Ads or SDR instead."** The hardest 
-one. Do not argue community is better than Ads. Reframe: Ads 
-generates demand, Sales converts demand, community extends customer 
-lifetime after acquisition. Different funnel stages. Not a substitute 
-question.
+one. Do not argue community is better than Ads. Reframe the funnel: 
+Ads generates demand, Sales converts demand, community extends 
+customer lifetime after acquisition. Different funnel stages. Not 
+a substitute question.
 
 #### The Anti-Attribution Reframe
 
-The strongest CFO conversation is not "community generated X dollars." 
-It is "community made every other function more efficient. Here is how 
-much cheaper each function operates because of community."
+The strongest CFO conversation reframes the value proposition. Not 
+"community generated X dollars," but "community made every other 
+function more efficient. Here is how much cheaper each function 
+operates because of community."
 
 This reframe positions community as an efficiency amplifier, not a 
 standalone revenue channel. CFOs understand amplifier logic. Every 
 dollar Sales spends closes faster because of advocate referrals. Every 
 dollar Support spends resolves more because of member-to-member help. 
 Every dollar Marketing spends produces more content because of UGC. 
-Community's dollar value is not what it generates alone. It is what 
-it makes every other function do better.
+Community's dollar value is what it makes every other function do 
+better, not what it generates alone.
 
 #### Why This Could Work: Three Tests
 
@@ -553,12 +552,12 @@ the losing argument (community vs sales) and moves to a winning one
 
 **Test 3: Does the framework work for early-stage teams with limited data?**
 
-Yes, partially. Early-stage teams may not have retention cohorts or 
-tracked referrals yet. The framework still gives them structure: start 
-with High-confidence rows (support deflection is measurable from day 
-one), acknowledge what is not yet trackable, and use the Ledger to 
-prompt what data infrastructure to build next. It becomes a roadmap 
-for measurement maturity, not just a report format.
+Partially. Early-stage teams may not have retention cohorts or tracked 
+referrals yet. The framework still gives them structure: start with 
+High-confidence rows (support deflection is measurable from day one), 
+acknowledge what is not yet trackable, and use the Ledger to prompt 
+what data infrastructure to build next. It becomes a roadmap for 
+measurement maturity, not just a report format.
 
 That is how community stops being the first budget cut and starts 
 being infrastructure the CFO defends.
