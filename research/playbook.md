@@ -26,8 +26,6 @@ Status: work in progress. Sections will be added over the next three days.
 
 ## 6. Who I Would Not Recommend Following
 
-## 6. Who I Would Not Recommend Following
-
 Two of the ten experts I studied are the ones I would not recommend as 
 starting points for junior growth marketers learning CLG. This is not 
 a judgment on their intelligence or track record. It's a signal-to-noise 
