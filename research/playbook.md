@@ -459,20 +459,16 @@ impact. Almost none can walk into a CFO's office and answer "what
 dollar impact does that represent?" in a way the CFO can act on. 
 This section is my answer to that gap.
 
-**Why this is original:** Brian Oblinger flagged this exact problem 
-at CMX Summit ("you walk into a CEO's office talking about unique 
-visitors, you're in big trouble") but did not provide a concrete 
-translation tool. No expert in my source list gives a systematic way 
-to translate community activity into CFO language. This framework fills 
-that gap.
-
-**Why it could work:** The framework converts scattered community 
-value into a single artifact CFO can read in five minutes. It replaces 
-the debate about attribution methodology with a structured ledger that 
-respects confidence limits. It reframes the value proposition from 
-"community generates dollars" to "community makes other functions 
-more efficient." All three moves are what the CFO conversation 
-actually needs.
+Brian Oblinger flagged this exact problem at CMX Summit ("you walk 
+into a CEO's office talking about unique visitors, you're in big 
+trouble") but did not provide a concrete translation tool, and no 
+expert in my source list gives a systematic way to translate 
+community activity into CFO language. This framework fills that gap 
+by converting scattered community value into a single artifact CFO 
+can read in five minutes, replacing the debate about attribution 
+methodology with a structured ledger that respects confidence limits, 
+and reframing the value proposition from "community generates dollars" 
+to "community makes other functions more efficient."
 
 #### The Five CFO Questions Every Community Manager Fears
 
@@ -574,31 +570,12 @@ Every dollar Marketing spends produces more content because of UGC.
 Community's dollar value is what it makes every other function do 
 better, not what it generates alone.
 
-#### Why This Could Work: Three Tests
-
-**Test 1: Can a community manager present this to a CFO Monday morning?**
-
-Yes. The Ledger is a filled-in spreadsheet, not a conceptual argument. 
-Rows are pre-defined. Community manager plugs in numbers monthly. 
-Presents quarterly. Adoption cost is one working session to build 
-the template.
-
-**Test 2: Does the framework survive CFO scrutiny?**
-
-Yes, because it does not overclaim. Confidence tiers signal intellectual 
-honesty. Cross-functional aggregation matches how CFO already thinks 
-about business (function-by-function). Anti-attribution reframe avoids 
-the losing argument (community vs sales) and moves to a winning one 
-(community as multiplier).
-
-**Test 3: Does the framework work for early-stage teams with limited data?**
-
-Partially. Early-stage teams may not have retention cohorts or tracked 
-referrals yet. The framework still gives them structure: start with 
-High-confidence rows (support deflection is measurable from day one), 
-acknowledge what is not yet trackable, and use the Ledger to prompt 
-what data infrastructure to build next. It becomes a roadmap for 
-measurement maturity, not just a report format.
+This framework is defendable because it does not overclaim. Confidence 
+tiers signal intellectual honesty. Cross-functional aggregation matches 
+how CFO already thinks about business, function-by-function. And for 
+early-stage teams without full data infrastructure, the Ledger doubles 
+as a roadmap for measurement maturity, prompting what infrastructure 
+to build next.
 
 That is how community stops being the first budget cut and starts 
 being infrastructure the CFO defends.
