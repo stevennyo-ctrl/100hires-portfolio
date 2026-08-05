@@ -292,8 +292,7 @@ are in the test criteria below.
 
 #### The Split
 
-After observing 14 real work areas of community managers at B2B SaaS 
-startups, I grouped them into three categories: **AI-Heavy**, **Balanced 
+After observing common work areas of community managers at B2B SaaS startups, I grouped them into three categories: **AI-Heavy**, **Balanced 
 (AI + Human)**, and **Human-Anchored**.
 
 | # | Community Work | AI Role | Human Role | Category |
