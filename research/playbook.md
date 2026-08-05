@@ -39,10 +39,18 @@ CLG at a small B2B SaaS. For each, I take a position.
 
 ### Tension 1: Where community sits in the org
 
-**Joel Primack** (Community at Salesforce) works within a 
-marketing-adjacent team and defends marketing alignment for 
-top-of-funnel goals. Marketing wants pipeline attribution, and 
-community can produce it.
+**Joel Primack** (Community at Salesforce) defends marketing 
+alignment for practical reasons. Marketing owns top-of-funnel 
+targets, which is exactly where community's growth contribution 
+is most visible. Community activities like content, events, and 
+advocacy fit naturally into marketing's operating rhythm, and 
+marketing teams typically have more mature measurement 
+infrastructure than early Product teams. When a community leader 
+needs to defend budget in year one, being embedded in a function 
+that already speaks the language of funnel metrics is a real 
+advantage. There is a legitimate case that Marketing captures 
+community's immediate business value more efficiently than 
+Product ownership would.
 
 **Erica Kuhl** started at Salesforce inside Marketing, moved to 
 Product, and saw the community explode. She argues community belongs 
@@ -72,9 +80,18 @@ No one wants to create a new account for a community that hasn't
 proven value yet.
 
 **Erica Kuhl** built Trailblazer on Salesforce's owned platform 
-specifically to control data, taxonomy, and product feedback flow. 
-For 3M+ members with enterprise-level product integration, owned 
-platform pays off.
+for reasons that go beyond scale. Owned platform gave Salesforce 
+control over data taxonomy, product feedback classification, and 
+member identity that maps to CRM records. That control enabled 
+Trailblazer to become a genuine product feedback pipeline, not 
+just a discussion forum. For companies where community will 
+influence roadmap decisions, drive product-led growth signals, 
+and integrate with sales enablement, owned platform is not 
+overkill. It is the infrastructure the business will eventually 
+need anyway. Starting on Slack means facing a painful migration 
+later. Erica's argument is that if you know you will eventually 
+own the platform, delaying the decision creates technical debt 
+and cultural disruption when migration finally happens.
 
 **My take: depends on stage. I don't believe there's a "best" 
 platform.** The goal is relationships between members, not a 
@@ -91,9 +108,18 @@ migrate. But don't build your own platform just because you want to
 ### Tension 3: Engagement vs revenue metrics
 
 **Joel Primack** interviewed Joe Huber at Sprout Social, who argued 
-for measuring "value in the wild." Community members helping each 
-other without brand touch is a win, even when the metric is soft. 
-Retention and activation matter, revenue attribution comes later.
+for measuring "value in the wild." Huber's position is that member-
+to-member help without brand involvement is the clearest signal 
+that a community has real depth. Forcing dollar attribution too 
+early distorts community behavior because it pushes community 
+managers to optimize for outcomes CFOs can see, not outcomes that 
+sustain the community long-term. Some of the most valuable community 
+dynamics (member-to-member trust, tacit knowledge transfer, 
+identity-building) are invisible in dollar metrics but drive 
+retention, expansion, and advocacy years later. The argument is 
+that measurement approach shapes community culture, and CFO-first 
+measurement can quietly kill the culture that produces the very 
+outcomes CFOs eventually want.
 
 **Brian Oblinger** (CMX Summit 2022) pushes back hard. Walking into 
 a CEO's office with unique visitors gets community programs cut. 
@@ -123,15 +149,30 @@ position. It's an honest reading of how community actually grows.
 ### Tension 4: Volunteer leaders vs paid staff
 
 **Lloyed Lobo** ran the Traction conference on 40 to 60 volunteers 
-per event. His emphasis: give volunteers the spotlight, let them MC, 
-let them lead. Volunteer-led scales fast and cheap.
+per event across seven years. His argument is not that volunteers 
+are cheap labor. It is that volunteers who lead events develop 
+ownership and identity that no paid staff role can produce. A 
+volunteer who MCs a session and receives public recognition becomes 
+a lifelong advocate. A paid community manager who runs the same 
+session builds a career, not a community. Lloyed's model treats 
+community leadership as a status good that members compete to earn, 
+not a service that staff provides. At scale, that creates a self-
+sustaining engine where the community produces its own leaders 
+faster than paid staff could ever be hired.
 
 **Erica Kuhl** ran the Salesforce MVP program as structured, 
 NDA-bound, with Salesforce employees deeply involved. Curated, 
 not volunteer-driven.
 
 **My take: paid staff first, volunteers later.** Culture cannot be 
-delegated. Tone, behavioral expectations, conflict resolution norms, 
+delegated. Lloyed's volunteer status good model works precisely because 
+Boast.AI already had established culture before Traction scaled 
+its volunteer network. The identity and ownership Lloyed talks 
+about compound on top of existing cultural foundation. For an 
+early-stage brand no one knows yet, volunteers have no cultural 
+foundation to inherit. They are asked to create culture from 
+scratch, which is the harder problem paid staff should own first. 
+Tone, behavioral expectations, conflict resolution norms, 
 what "good" looks like, all of this needs to be set by paid staff 
 before volunteers can carry it. Lloyed's model works for Traction 
 because Boast.AI had already built brand trust over years. For an 
