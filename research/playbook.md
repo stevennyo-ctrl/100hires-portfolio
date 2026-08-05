@@ -23,6 +23,7 @@ start there.
 7. What Would Change My Mind
 
 ---
+
 ## 1. Core Playbook with Citations
 
 This section is the operational playbook. It compiles the positions I 
