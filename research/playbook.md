@@ -26,7 +26,340 @@ Status: work in progress. Sections will be added over the next three days.
 ---
 ## 1. Core Playbook with Citations
 
-*Coming next.*
+This section is the operational playbook. It compiles the positions I 
+take across Sections 2 through 7 into concrete recommendations, each 
+with a source citation.
+
+A note on how to read this: recommendations are ordered by phase, not 
+by priority. A community program cannot skip phases. Trying to run 
+Phase 5 (Scaling with AI) without Phase 0 (founder buy-in) is the 
+most common failure mode I saw in my research.
+
+Every recommendation cites at least one expert. Where multiple experts 
+converge, I note the convergence. Where I depart from expert consensus, 
+I flag the departure explicitly.
+
+---
+
+### Phase 0: Before You Start
+
+**1. Confirm founder buy-in on a 12 to 18 month investment horizon 
+before starting.**
+
+Why: Community ROI is back-loaded. Every expert in my research who 
+succeeded had leadership willing to fund the program past the point 
+where hard revenue attribution was clean.
+
+Source: David Spinks, *The Business of Belonging* (2021), reinforced 
+by Erica Kuhl podcast interviews (2023). [verify link]
+
+**2. Confirm product-market fit signals before investing in community.**
+
+Why: Community amplifies whatever product experience already exists. 
+If members join a community around a product that does not solve their 
+problem well, community will accelerate churn, not retention.
+
+Source: Rosie Sherry, Rosieland blog posts on "audience before product" 
+(2023 to 2024). [verify link]
+
+**3. Choose your community's business function before choosing a 
+platform.**
+
+Why: Whether community serves demand generation (Marketing angle), 
+product feedback (Product angle), or customer expansion (CS angle) 
+determines platform choice, hiring, and metrics. This decision cannot 
+be made after launch without expensive rework.
+
+Source: Mike Rizzo, LinkedIn posts on MarketingOps positioning as 
+product function (2024). [verify link]
+
+---
+
+### Phase 1: Organizational Setup
+
+**4. Place community under Product for companies past 30 employees.**
+
+Why: Community's highest-value output is a product feedback loop. 
+Marketing ownership creates pressure to convert community into MQL 
+production, which degrades feedback quality.
+
+Source: Erica Kuhl's account of moving Trailblazer from Marketing to 
+Product at Salesforce (podcast interviews, 2022 to 2023). Mike Rizzo 
+argues the stronger version: community IS a product function 
+(LinkedIn, 2024). [verify link]
+
+**Departure from Joel Primack:** Joel defends marketing alignment, 
+which works when top-of-funnel goals dominate. My position is that 
+Product alignment protects long-term community health better than 
+Marketing alignment does. See Section 2, Tension 1 for full reasoning.
+
+**5. For companies under 30 employees, community sits under the founder 
+or under Marketing by default.**
+
+Why: Small startups rarely have a mature Product function. The 
+practical constraint matters more than the ideal placement. What 
+matters is protecting community from short-term lead-gen pressure, 
+which is easier with founder direct involvement than with a 
+Marketing-driven KPI structure.
+
+Source: My reading of Rosie Sherry and MarketingOps early days 
+(2016 to 2018). [verify link]
+
+**6. Hire one dedicated paid community manager before recruiting 
+volunteers.**
+
+Why: Culture cannot be delegated. Tone, escalation norms, and 
+behavioral expectations need to be set by paid staff first. Volunteers 
+scale culture. They do not create it.
+
+Source: My synthesis. Departure from Lloyed Lobo, who leans 
+volunteer-heavy for Traction events. See Section 2, Tension 4.
+
+---
+
+### Phase 2: Platform Selection
+
+**7. Launch community on Slack or Discord for the first 12 months.**
+
+Why: Friction-free onboarding beats owned-platform analytics depth at 
+early stage. Members will not create new accounts for a community 
+that has not yet proven value.
+
+Source: Mike Rizzo, MarketingOps case study (2017 launch on Slack, 
+still on Slack in 2025 at 4K plus paid and 20K plus free members). 
+[verify link]
+
+**8. Migrate to owned platform only when you have three concrete data 
+integration needs.**
+
+Why: Owned platform is expensive to build and expensive to migrate 
+onto. Justify it with specific needs: CRM integration, product feedback 
+pipeline, enterprise sales enablement. Not with a vague desire to 
+"own the community."
+
+Source: Erica Kuhl on Trailblazer's owned platform decision (interviews, 
+2022 to 2023), balanced by Mike Rizzo's cost-benefit critique (2024). 
+[verify link]
+
+**Departure from many "own your data" advocates:** Do not build owned 
+platform because it feels strategic. That is ego, not strategy. See 
+Section 2, Tension 2.
+
+---
+
+### Phase 3: Audience and Initial Community
+
+**9. Build audience before formally launching community.**
+
+Why: Community is a place where relationships happen. Audience is the 
+supply of potential relationships. Without audience, community launch 
+has no seed population.
+
+Source: David Spinks, "audience before community" framework, and Rosie 
+Sherry's Rosieland-in-public case study. [verify link]
+
+**10. Seed the community with 20 to 50 hand-selected members before 
+opening to public.**
+
+Why: The first 50 members shape culture more than the next 5,000. 
+Curation at seed stage compounds. Public launch to strangers rarely 
+produces a healthy community.
+
+Source: David Spinks, *The Business of Belonging*, chapter on 
+"seeding rituals" (2021). Rosie Sherry's Ministry of Testing early 
+history reinforces this. [verify link]
+
+**11. Publish a clear community charter or code of conduct before 
+public launch.**
+
+Why: Community norms enforced late feel arbitrary. Norms declared 
+upfront feel like the community's DNA. This is the cheapest way to 
+avoid future moderation crises.
+
+Source: Common thread across David Spinks, Erica Kuhl, and Christina 
+Garnett writing. Convergent recommendation. [verify link]
+
+---
+
+### Phase 4: Measurement and Reporting
+
+**12. Track early-stage metrics (0 to 6 months) separately from 
+mature-stage metrics (6 months plus).**
+
+Why: Forcing revenue attribution too early kills programs before they 
+mature. Forcing engagement metrics too long allows programs to hide 
+from CFO scrutiny.
+
+Early stage: activation rate, participation rate, repeat participation, 
+member-to-member interactions.
+
+Mature stage: retention lift, expansion revenue, referral attribution, 
+support deflection, revenue influence.
+
+Source: Erica Kuhl's "health metrics AND business north-star metrics" 
+framework (podcast interviews, 2022 to 2023). Extended in Section 2, 
+Tension 3. [verify link]
+
+**13. Build a Cross-Functional Value Ledger for CFO conversations.**
+
+Why: Community value leaks into Support, Product, Marketing, Sales, 
+and Customer Success. Aggregating value in a single artifact prevents 
+budget cuts driven by "no one department owns the ROI story."
+
+Source: My original framework, developed in response to Brian 
+Oblinger's warning that CFOs cut community programs that cannot 
+answer dollar questions (CMX Summit, 2022). [verify link] Full detail 
+in Section 4, Idea 2.
+
+**14. Tag every measurement with a confidence tier (High, Medium, Low).**
+
+Why: Honest measurement beats inflated claims. Lead CFO conversations 
+with High-confidence rows (support deflection, tracked referrals). 
+Acknowledge Low-confidence rows as directional. This builds credibility 
+faster than claiming certainty you do not have.
+
+Source: My extension. See Section 4, Idea 2.
+
+**Departure from Joe Huber (interviewed by Joel Primack):** Do not 
+use "value in the wild" as a sole measurement approach. Pair it with 
+business metrics or watch the program die at the first budget review. 
+See Section 3, Rejection 2.
+
+---
+
+### Phase 5: Scaling with AI
+
+**15. Split community work into three categories: AI-Heavy, Balanced, 
+and Human-Anchored.**
+
+Why: The debate is not whether AI can replicate community. It is which 
+work AI should handle so humans can invest depth in trust-building 
+work. "AI can't" framing ages poorly and misaligns with AI-native 
+company positioning.
+
+Source: My original framework, direct response to Brian Oblinger's 
+"AI can't replicate 8 pillars" framework (LinkedIn, 2024). [verify link] 
+Full detail in Section 4, Idea 1.
+
+**16. Use AI for pattern recognition, human for person-level work.**
+
+Why: AI wins on speed and consistency for spam detection, feedback 
+categorization, and engagement drop pattern. Human wins on trust, 
+recognition, and conflict resolution because accountability of a real 
+sender is what makes outreach land.
+
+Source: My framework. See Section 4, Idea 1, Principle 1.
+
+**17. Use AI to draft, human to edit, for all community-facing 
+communication.**
+
+Why: AI is a strong draft engine but not a strong final publisher. A 
+70-30 AI-human ratio produces material faster than pure human work 
+and higher quality than pure AI output.
+
+Source: My framework. See Section 4, Idea 1, Principle 2.
+
+---
+
+### Phase 6: Long-term Sustainability
+
+**18. Introduce volunteer or advocacy programs only in year two, not 
+year one.**
+
+Why: A community without established culture cannot be safely handed 
+to volunteers. Volunteers scale existing culture. They cannot create 
+it.
+
+Source: My synthesis. Departure from Lloyed Lobo's Traction volunteer 
+model, which worked because Boast.AI already had established brand 
+trust. See Section 2, Tension 4.
+
+**19. Curate a small advocate program (10 to 30 people) before scaling 
+to broader ambassador programs.**
+
+Why: Advocacy runs on trust. Small curated programs preserve trust. 
+Large open programs dilute it. Erica Kuhl's Salesforce MVP program is 
+the case study: NDA-bound, structured, deeply engaged.
+
+Source: Erica Kuhl on Salesforce MVP program (podcast interviews, 
+2022). [verify link]
+
+**20. Review platform decision annually.**
+
+Why: Slack pricing changes. Discord's B2B posture shifts. Owned 
+platforms accumulate technical debt. What was right last year may not 
+be right this year.
+
+Source: My extension of Signal Filter's "Timestamp Check" principle. 
+See Section 7.
+
+---
+
+### Anti-Recommendations: Things Not to Do
+
+**A1. Do not launch community as a "growth channel" without a 12 to 18 
+month runway.**
+
+Why: Community is not a channel. It is infrastructure. Channel budgets 
+get cut in quarterly reviews. Infrastructure budgets survive them, but 
+only if leadership was set up to see it as infrastructure from the 
+start.
+
+Source: My analysis. Consistent with David Spinks and Mike Rizzo 
+positioning.
+
+**A2. Do not measure community success by member count or post volume.**
+
+Why: These are vanity metrics that hide dying communities. A community 
+with 10,000 lurking members and 20 daily posts is dying. A community 
+with 500 members and 40 member-to-member interactions daily is alive.
+
+Source: Brian Oblinger's CMX Summit warning against "unique visitors" 
+metrics (2022). [verify link]
+
+**A3. Do not build an owned platform in year one just because a 
+consultant suggests it.**
+
+Why: Consultants who sell owned-platform builds have a commercial 
+interest in the recommendation. Apply the Incentive Audit (Section 7, 
+Filter 3) before accepting the pitch.
+
+Source: My extension. Applies specifically to Mac Reddin's Commsor 
+positioning. See Section 6.
+
+**A4. Do not hire a community manager without operational authority.**
+
+Why: A community manager who cannot make product recommendations, 
+budget decisions, or escalation calls is a moderator, not a community 
+manager. Underpowered CM roles are the most common failure I observed 
+in my research.
+
+Source: Mike Rizzo, LinkedIn commentary on community manager 
+positioning (2024). [verify link]
+
+**A5. Do not copy the Traction volunteer model unless you have Boast.AI 
+brand equity.**
+
+Why: Lloyed Lobo's volunteer-led conference model worked because Boast 
+had years of established trust. Early-stage brands attempting the same 
+model without brand equity typically produce low-quality volunteer 
+output and burn goodwill.
+
+Source: My critique of Lloyed's framing. See Section 3, Rejection 1.
+
+---
+
+### How to Use This Playbook
+
+Read the phase you are currently in. Skip ahead only after you have 
+completed prior phases. If you disagree with a recommendation, verify 
+the disagreement against Section 5 (Weaknesses) first to see if I have 
+already acknowledged the caveat, then against Section 7 (What Would 
+Change My Mind) to see if your evidence would update my position.
+
+The recommendations above are the compressed version. The full reasoning 
+lives in Sections 2 through 7. Read the compressed version to act. Read 
+the full sections to think.
 
 ---
 
