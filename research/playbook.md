@@ -21,6 +21,7 @@ Status: work in progress. Sections will be added over the next three days.
 4. My Original Ideas
 5. Weaknesses of This Playbook
 6. Who I Would Not Recommend Following
+7. What Would Change My Mind
 
 ---
 ## 1. Core Playbook with Citations
@@ -767,5 +768,161 @@ are mostly pre-2022. I kept him because the frameworks he wrote (peak
 moments, "do things that don't scale" for community) are foundational 
 enough that most other experts in this list still reference him. 
 Removing him would break the reasoning chain.
+
+---
+
+## 7. What Would Change My Mind
+
+Every position in this playbook rests on evidence I currently trust. 
+That evidence could be wrong. New evidence could arrive tomorrow that 
+breaks the reasoning. Rather than pretend my conclusions are permanent, 
+this section shows what specific new information would move me off 
+each position.
+
+This is not hedging. Strong positions with clear update triggers are 
+more useful than weak positions with no anchor. A reader should know 
+where I stand today, and also what would move me tomorrow.
+
+### The Signal Filter I Use to Evaluate Evidence
+
+Before I describe what would change my mind, I need to describe how I 
+process new information. I use three filters. They apply to incoming 
+CLG advice from experts, and they apply just as strictly to my own 
+positions.
+
+**Filter 1: Context Match.** Whose company was the evidence generated 
+in? A framework that worked at Salesforce (10,000 plus employees, 
+enterprise buyers) is not automatically applicable to a 30-person 
+startup. Before I trust new evidence, I check whether the context 
+producing it matches the context I care about (small B2B SaaS).
+
+**Filter 2: Timestamp Check.** How recent is the evidence, and is the 
+practitioner still operating today? CLG advice ages fast, especially 
+with AI reshaping the landscape. A framework built in 2019 by someone 
+who now consults full-time gets discounted against one built in 2025 
+by someone actively running a community this quarter.
+
+**Filter 3: Incentive and Transparency Audit.** Does the person 
+sharing the evidence have a commercial stake in the conclusion? Do 
+they explain how the outcome was achieved, or only what the outcome 
+was? I trust operators who show process and acknowledge failure over 
+operators who only display success.
+
+These three filters do not just help me evaluate expert advice. They 
+tell me when my own positions should update. What follows applies 
+each filter to a specific claim in this playbook.
+
+### Position 1: Community Belongs Under Product, Not Marketing
+
+**Current position** (Section 2, Tension 1): For B2B SaaS beyond 
+20 to 30 people, community should sit under Product to protect the 
+feedback loop from short-term lead-gen pressure.
+
+**What would update this:**
+
+If I observed three or more small B2B SaaS companies (fewer than 50 
+employees) successfully running community under Marketing while still 
+producing high-quality product feedback and rising retention, I would 
+begin to question the assumption. The real variable may not be 
+organizational placement but cross-functional collaboration quality.
+
+I would also update if I found that community activity in most 
+startups is dominated by top-of-funnel work (content, events, 
+partnerships) rather than product adoption. In that case, Marketing 
+would be the more logical home, and I may have overweighted community 
+as a feedback engine when its primary function for most startups is 
+demand generation.
+
+### Position 2: Lloyed Lobo's "$10M ARR Through Community" Claim Is Overstated
+
+**Current position** (Section 3, Rejection 1): The claim oversimplifies 
+causal mechanism, cannot be replicated by most startups, and creates 
+survivorship bias.
+
+**What would update this:**
+
+If I found several bootstrap startups documenting the process 
+transparently (timeline, cost, event count, member count, ARR growth) 
+and their results were consistent with Lloyed's story, I would treat 
+this as a replicable pattern rather than a unique case.
+
+I would also update if a company reached similar outcomes without a 
+founder who already had audience, without years of conference 
+building, and without prior brand equity. That would reduce my 
+survivorship bias concern, because it would suggest a pattern that 
+does not depend on a rare starting condition.
+
+### Position 3: AI Should Not Replace Human-Anchored Community Work
+
+**Current position** (Section 4, Idea 1): Recognition, conflict 
+resolution, super user relationships, and community direction should 
+remain human-anchored. AI accelerates operational work but does not 
+build trust the same way.
+
+**What would update this:**
+
+If, within the next 12 to 24 months, AI develops into a genuine 
+"community companion" that members trust enough to have long-term 
+relational conversations without noticing it is not human, the split 
+between operational and relational work would blur significantly. 
+The current framework's assumption (pattern is AI's domain, person is 
+human's domain) would need updating.
+
+I would also update if I saw data showing that communities largely 
+managed by AI produce retention, engagement, and trust equal to or 
+higher than communities managed by humans. That would break my 
+assumption that human touch inherently produces higher relationship 
+quality. Assumption should follow data, not the other way around.
+
+### Position 4: Christina Garnett Is Not the Right Starting Point for CLG Learning
+
+**Current position** (Section 6): Christina's work centers on 
+customer trust and psychology, not community operation. Her frameworks 
+are too conceptual for junior growth marketers building CLG at small 
+B2B SaaS.
+
+**What would update this:**
+
+If Christina published a framework specifically addressing community 
+operations at small B2B SaaS startups, with case studies, experiments, 
+and measurable outcomes, I would re-evaluate. My critique is not 
+about her intelligence. It is about the fit between her focus and my 
+audience's need.
+
+I would also update if I found community managers at startups 
+actually using her trust framework and showing concrete results 
+(faster onboarding, higher engagement, lower churn). That would tell 
+me her frameworks are more operationally applicable than my current 
+read suggests.
+
+### The Meta-Principle
+
+Three rules govern when I actually update a position:
+
+**I do not change my mind because a new expert says something.** 
+Volume of authority does not equal weight of evidence. If a Twitter-
+famous operator declares X, and my current position says Y, I need 
+more than declaration to move.
+
+**I change my mind when evidence is replicable, not when a single 
+success story surfaces.** A pattern needs to appear across multiple 
+contexts before it displaces a general principle. One counterexample 
+is a data point, not a paradigm shift.
+
+**I change my mind when the context of the new evidence fits the 
+context I care about.** New evidence from a Fortune 500 company 
+should not automatically update my recommendations for a 30-person 
+startup. Context transfer is not automatic.
+
+The reason this matters: many junior operators either accept every 
+new framework too quickly or reject everything to look independent. 
+Both patterns are lazy. The healthier path is to hold conviction with 
+clear update triggers, so that when the world changes, my thinking 
+changes with it. And when it does not change, my thinking stays 
+anchored.
+
+Every playbook is a snapshot. This one is dated August 2026. The 
+positions in it should update as evidence updates. The filter should 
+not.
 
 ---
