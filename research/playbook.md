@@ -9,7 +9,6 @@ This file assumes you have read [`sources.md`](sources.md) and
 [`patterns-and-tensions.md`](patterns-and-tensions.md). If you have not, 
 start there.
 
-Status: work in progress. Sections will be added over the next three days.
 
 ---
 
@@ -498,20 +497,18 @@ NDA-bound, with Salesforce employees deeply involved. Curated,
 not volunteer-driven.
 
 **My take: paid staff first, volunteers later.** Culture cannot be 
-delegated. Lloyed's volunteer status good model works precisely because 
-Boast.AI already had established culture before Traction scaled 
-its volunteer network. The identity and ownership Lloyed talks 
-about compound on top of existing cultural foundation. For an 
-early-stage brand no one knows yet, volunteers have no cultural 
-foundation to inherit. They are asked to create culture from 
-scratch, which is the harder problem paid staff should own first. 
-Tone, behavioral expectations, conflict resolution norms, 
+delegated. Tone, behavioral expectations, conflict resolution norms, 
 what "good" looks like, all of this needs to be set by paid staff 
-before volunteers can carry it. Lloyed's model works for Traction 
-because Boast.AI had already built brand trust over years. For an 
-early-stage brand no one knows yet, you need one or two paid 
-community managers to build the playbook first. Volunteers scale it 
-in year two.
+before volunteers can carry it.
+
+Lloyed's volunteer status good model works precisely because Boast.AI 
+already had established culture before Traction scaled its volunteer 
+network. The identity and ownership Lloyed talks about compound on 
+top of existing cultural foundation. For an early-stage brand no one 
+knows yet, volunteers have no cultural foundation to inherit. They 
+are asked to create culture from scratch, which is the harder problem 
+paid staff should own first. You need one or two paid community 
+managers to build the playbook. Volunteers scale it in year two.
 
 ---
 
