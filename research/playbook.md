@@ -565,7 +565,138 @@ being infrastructure the CFO defends.
 
 ## 5. Weaknesses of This Playbook
 
-*Coming next.*
+This section is not a display of humility. It is an honest audit of 
+what I know I do not know. Every playbook has structural limits. 
+Ignoring them is worse than acknowledging them, because ignored 
+weakness gets inherited by every reader who follows the advice.
+
+Five categories of weakness in this playbook, and one biggest one at 
+the end.
+
+### Weakness 1: Untested Assumptions
+
+Three assumptions shape the recommendations here, and none of them 
+are proven.
+
+**Community will become a stronger moat in the AI era.** I believe 
+this, but it remains a hypothesis. AI could reduce community demand 
+by answering technical questions directly, not increase it. There is 
+not enough long-run evidence to treat this as fact yet.
+
+**CFOs will accept "cross-functional value" framing.** The CFO 
+Translation Layer assumes CFOs will accept community value measured 
+across Support, Product, Marketing, and Sales rather than as a single 
+ROI number. This is logically sound. It is not empirically validated.
+
+**Founders will accept a 12 to 18 month investment horizon.** Most 
+of my recommendations assume founders are willing to wait. For 
+startups with short runway or still hunting product-market fit, this 
+assumption breaks immediately.
+
+### Weakness 2: Advice That May Not Apply in Certain Contexts
+
+Three recommendations in this playbook are context-dependent, and 
+readers in the wrong context should not follow them.
+
+**"Start on Slack, migrate later."** Correct for early-stage SMB B2B 
+SaaS. Wrong if the company targets enterprise buyers from day one 
+with compliance, security, or integrated customer portal 
+requirements.
+
+**"Paid staff first, volunteers later."** Correct as a default. 
+Wrong if a strong community already exists organically before the 
+company arrives, in which case volunteer-first respects the 
+pre-existing culture.
+
+**"Audience-first before product community."** Correct for most B2B 
+SaaS. Wrong for highly technical products serving small professional 
+communities, where user community may compound faster than broad 
+audience-building.
+
+### Weakness 3: Scope Choices That May Have Missed Insights
+
+Three areas I deliberately underweighted, each with a reason and a 
+cost.
+
+**Community psychology.** I chose operator playbook depth over 
+psychological theory depth. Trust formation, social identity, and 
+belonging science are relevant but not my focus. The cost: some 
+tactical decisions in the playbook lack the psychological grounding 
+that would make them more precise.
+
+**Community outside B2B SaaS.** Creator communities, gaming, open 
+source, and consumer brands appear almost nowhere in my analysis. 
+The playbook conclusions are shaped by SaaS context and should not 
+be transplanted without adjustment.
+
+**Non-Western perspective.** Nearly every expert I studied is based 
+in North America. Community norms in Asia, Latin America, and Europe 
+may follow different patterns, and I did not explore how the playbook 
+would translate.
+
+### Weakness 4: Frameworks That Have Not Been Validated in Practice
+
+The three frameworks I introduce elsewhere in this playbook are all 
+directional, not proven.
+
+**AI Augmentation Framework.** I have not observed a startup 
+operating community with this model at maturity. The framework is a 
+reasoned proposal, not established best practice.
+
+**CFO Translation Layer.** The dollar formulas are logical 
+approximations, not industry-benchmarked figures validated across 
+multiple companies. A community manager applying the Ledger will 
+need to calibrate the numbers to their own context.
+
+**Signal Filter.** I am reasonably confident the three filters help 
+junior growth marketers evaluate CLG content, but I have not tested 
+them with other operators. More senior practitioners may apply 
+different filters.
+
+### Weakness 5: Sample Bias in Source Selection
+
+The ten experts I studied introduce three biases into this playbook.
+
+**Vocal creator bias.** Every expert I studied is an active public 
+content creator. Operators who built strong communities but do not 
+write or speak publicly are absent from my sample. There is a 
+selection effect in whose voice reached me.
+
+**North American dominance.** Salesforce, HubSpot, Boast.AI, 
+MarketingOps, and adjacent US SaaS ecosystems dominate my examples. 
+I do not know whether the same patterns emerge in Asian markets 
+where work culture and customer behavior may differ.
+
+**Survivorship bias.** Nearly every expert discusses successful 
+communities. Almost none openly dissect a community that failed, 
+why it failed, and which specific decisions were wrong. As a result, 
+this playbook is stronger at explaining how to build than at 
+explaining how to avoid failure.
+
+### The Biggest Weakness
+
+If I have to name one weakness larger than the others: this playbook 
+is stronger at explaining what appears to work than at explaining 
+when a given approach will not work.
+
+This is not just a limitation of my research. It is a limitation of 
+the Community-Led Growth ecosystem as a whole. Public knowledge in 
+this field is built almost entirely from success stories. Failures 
+are rarely documented at the same level of detail. That gap is a 
+research opportunity for anyone willing to fill it, and it is the 
+gap most likely to trip up a junior practitioner who reads this 
+playbook without the failure context to balance it.
+
+### Playbook Half-Life
+
+This playbook is a snapshot dated August 2026. AI capability, 
+community platforms, and market dynamics are moving fast enough that 
+any tactical recommendation here needs re-evaluation within twelve 
+months. Frameworks based on enduring principles (the AI-human split, 
+the CFO conversation reframe, the filter approach for reading CLG 
+content) age better than tactical recommendations (specific 
+platforms, specific dollar formulas). Readers should treat this 
+document as a starting framework, not a permanent reference.
 
 ---
 
