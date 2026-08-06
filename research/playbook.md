@@ -184,8 +184,9 @@ Why: Community norms enforced late feel arbitrary. Norms declared
 upfront feel like the community's DNA. This is the cheapest way to 
 avoid future moderation crises.
 
-Source: Common thread across David Spinks, Erica Kuhl, and Christina 
-Garnett writing. Convergent recommendation. [verify link]
+Source: Convergent recommendation across David Spinks (*The Business 
+of Belonging*, 2021), Erica Kuhl (LinkedIn: "Community as the answer 
+to the complaint forum objection," February 2026: https://www.linkedin.com/posts/ericakuhl_i-dont-want-to-start-a-community-itll-activity-7429917634999214080-fNOY), and Christina Garnett (LinkedIn: "Belonging is not a vibe, it is a decision," 21 June 2026: https://www.linkedin.com/posts/christinamgarnett_belonging-is-not-a-vibe-it-is-a-decision-activity-7473843626004033536-RQsv).
 
 ---
 
