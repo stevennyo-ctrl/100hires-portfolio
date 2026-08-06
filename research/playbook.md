@@ -211,9 +211,9 @@ and Customer Success. Aggregating value in a single artifact prevents
 budget cuts driven by "no one department owns the ROI story."
 
 Source: My original framework, developed in response to Brian 
-Oblinger's warning that CFOs cut community programs that cannot 
-answer dollar questions (CMX Summit, 2022). [verify link] Full detail 
-in Section 4, Idea 2.
+Oblinger's CMX Summit 2022 talk on community value measurement. 
+Reinforced by his LinkedIn: "The community flywheel works only when 
+insights flow like product telemetry" (May 2026): https://www.linkedin.com/posts/brianoblinger_the-flywheel-only-works-if-community-is-connected-activity-7453080284285153280-Wpyc. Full detail in Section 4, Idea 2.
 
 **14. Tag every measurement with a confidence tier (High, Medium, Low).**
 
@@ -242,8 +242,8 @@ work. "AI can't" framing ages poorly and misaligns with AI-native
 company positioning.
 
 Source: My original framework, direct response to Brian Oblinger's 
-"AI can't replicate 8 pillars" framework (LinkedIn, 2024). [verify link] 
-Full detail in Section 4, Idea 1.
+LinkedIn post "People-Powered Pillars: the eight community programs 
+AI cannot replicate" (May 2026): https://www.linkedin.com/posts/brianoblinger_people-powered-pillars-the-future-of-activity-7458138606075940864-lcPT. Full detail in Section 4, Idea 1.
 
 **16. Use AI for pattern recognition, human for person-level work.**
 
@@ -318,8 +318,9 @@ Why: These are vanity metrics that hide dying communities. A community
 with 10,000 lurking members and 20 daily posts is dying. A community 
 with 500 members and 40 member-to-member interactions daily is alive.
 
-Source: Brian Oblinger's CMX Summit warning against "unique visitors" 
-metrics (2022). [verify link]
+Source: Brian Oblinger, CMX Summit 2022 talk on community value 
+measurement: "You walk into a CEO's office talking about unique 
+visitors, you're in big trouble."
 
 **A3. Do not build an owned platform in year one just because a 
 consultant suggests it.**
