@@ -96,6 +96,19 @@ which works when top-of-funnel goals dominate. My position is that
 Product alignment protects long-term community health better than 
 Marketing alignment does. See Section 2, Tension 1 for full reasoning.
 
+**When to override this recommendation:** Marketing ownership is the 
+right choice when demand generation is the strategic bottleneck. 
+Three scenarios where this applies: early-stage companies in unknown 
+categories where brand awareness matters more than feedback loops, 
+companies competing in crowded markets where advocacy and content 
+distribution are the growth lever, and product-led growth companies 
+still hunting category creation where community's job is signal 
+amplification, not feedback aggregation. In these contexts, the 
+top-of-funnel value community produces outweighs the feedback-loop 
+degradation. Route Product feedback through a formal channel (monthly 
+digest, Slack channel, feedback review meetings) to prevent 
+information loss.
+
 **5. For companies under 30 employees, community sits under the founder 
 or under Marketing by default.**
 
