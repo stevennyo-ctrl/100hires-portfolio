@@ -71,8 +71,8 @@ product feedback (Product angle), or customer expansion (CS angle)
 determines platform choice, hiring, and metrics. This decision cannot 
 be made after launch without expensive rework.
 
-Source: Mike Rizzo, LinkedIn posts on MarketingOps positioning as 
-product function (2024). [verify link]
+Source: Mike Rizzo, LinkedIn: "The Deep Cut newsletter launch" 
+(14 June 2026), demonstrating community-led product model: https://www.linkedin.com/posts/mikedrizzo_marketingops-gtmops-gtmpros-activity-7471312136758054912-evKE
 
 ---
 
@@ -127,9 +127,10 @@ Why: Friction-free onboarding beats owned-platform analytics depth at
 early stage. Members will not create new accounts for a community 
 that has not yet proven value.
 
-Source: Mike Rizzo, MarketingOps case study (2017 launch on Slack, 
-still on Slack in 2025 at 4K plus paid and 20K plus free members). 
-[verify link]
+Source: Mike Rizzo, MarketingOps case study. Launched on Slack 2017, 
+still on Slack as of 2026 at 4K+ paid and 20K+ free members. See 
+[sources.md](sources.md) for content references, including LinkedIn: 
+"The Deep Cut newsletter launch" (14 June 2026): https://www.linkedin.com/posts/mikedrizzo_marketingops-gtmops-gtmpros-activity-7471312136758054912-evKE
 
 **8. Migrate to owned platform only when you have three concrete data 
 integration needs.**
@@ -337,8 +338,9 @@ budget decisions, or escalation calls is a moderator, not a community
 manager. Underpowered CM roles are the most common failure I observed 
 in my research.
 
-Source: Mike Rizzo, LinkedIn commentary on community manager 
-positioning (2024). [verify link]
+Source: Mike Rizzo, LinkedIn: "The AI gap is judgment, not tools" 
+(24 May 2026), on how operator judgment separates high-performing 
+teams from AI-tool users: https://www.linkedin.com/posts/mikedrizzo_theres-a-lot-of-pressure-right-now-to-get-activity-7463196960116621312-jy4c
 
 **A5. Do not copy the Traction volunteer model unless you have Boast.AI 
 brand equity.**
