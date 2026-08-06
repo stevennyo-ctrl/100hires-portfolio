@@ -1,38 +1,62 @@
 # Community-Led Growth for B2B SaaS
 
-Research portfolio on **Community-Led Growth (CLG) for B2B SaaS**. 
-Built as a deliverable for the Junior Growth Marketing Specialist role 
-at 100Hires (AI-native, remote), but written to be portable: the 
-methodology, source list, and frameworks apply to any growth role in 
-B2B SaaS where community matters as a long-term moat.
+Research portfolio and applied playbook on **Community-Led Growth (CLG) 
+for B2B SaaS**. Built as a deliverable for the Junior Growth Marketing 
+Specialist role at 100Hires (AI-native, remote), but written to be 
+portable: the methodology, source list, and frameworks apply to any 
+growth role in B2B SaaS where community matters as a long-term moat.
 
 I picked CLG as the topic because in an AI-saturated market, community 
 is the hardest moat for competitors to replicate. Most landing pages, 
 ad copy, and content can be generated in minutes now. A community of 
 engaged users cannot.
 
+The main deliverable is [`research/playbook.md`](research/playbook.md), 
+a 7-section operational playbook with 20 recommendations across 6 
+phases, 2 original frameworks, and explicit weakness acknowledgment. 
+All backed by cited sources from the ten operators studied.
+
 ---
 
 ## What's In This Repo
 
-- **10 community operators** I studied (LinkedIn, YouTube, podcasts)
+**Phase 1: Research foundation**
+- **10 community operators** studied (LinkedIn, YouTube, podcasts)
 - **30 LinkedIn posts**, 3 per expert, verbatim with engagement metrics
 - **10 YouTube transcripts**, fetched programmatically via Supadata API
 - **Critical reading notes** on operator credibility and where to be 
   skeptical per expert (in `sources.md`)
 - **Synthesis** covering patterns, tensions, and what's missing in their 
   advice (in `patterns-and-tensions.md`)
-- **Applied** layer with execution plays (using 100Hires as working example) 
+- **Applied case study** using 100Hires as working example 
   (in `applied-case-study.md`)
+
+**Phase 2: Operational playbook**
+- **20 recommendations** across 6 phases (Phase 0-6), with source 
+  citations
+- **4 tensions** where experts disagree, with reasoned positions
+- **3 rejected claims** from otherwise-strong operators
+- **2 original frameworks**: AI Augmentation Framework and CFO 
+  Translation Layer
+- **5 weakness categories** and explicit belief-update mechanism
+- Full playbook in [`playbook.md`](research/playbook.md)
 
 ---
 
 ## How To Navigate
 
-If you only have 5 minutes, read these in order:
+**If you have 5 minutes**: read [`playbook.md`](research/playbook.md) 
+Section 1 (Core Playbook with Citations). 20 recommendations across 6 
+phases with source citations.
+
+**If you have 20 minutes**: read the full [`playbook.md`](research/playbook.md). 
+Sections 2-7 cover tensions, rejections, original ideas, weaknesses, 
+non-recommendations, and belief-update mechanism.
+
+**If you want the research foundation**: 
 1. [`sources.md`](research/sources.md): who I studied and why
 2. [`patterns-and-tensions.md`](research/patterns-and-tensions.md): what I learned
-3. [`applied-case-study.md`](research/applied-case-study.md): how I'd execute on it
+3. [`applied-case-study.md`](research/applied-case-study.md): early execution notes
 
 The raw collection is in [`/research/linkedin-posts/`](research/linkedin-posts/) and 
 [`/research/youtube-transcripts/`](research/youtube-transcripts/) if you want to verify any claim.
@@ -40,14 +64,16 @@ The raw collection is in [`/research/linkedin-posts/`](research/linkedin-posts/)
 Repository structure:
 
     research/
-    ├── linkedin-posts/        # 10 files, 30 posts total
-    ├── youtube-transcripts/   # 6 files, 10 transcripts total
-    ├── other/                 # blogs, newsletters, critiques
-    ├── sources.md             # expert list + credibility notes
+    ├── linkedin-posts/            # 10 files, 30 posts total
+    ├── youtube-transcripts/       # 6 files, 10 transcripts total
+    ├── other/                     # blogs, newsletters, critiques
+    ├── sources.md                 # expert list + credibility notes
     ├── patterns-and-tensions.md   # synthesis
-    └── applied-case-study.md     # execution plays
+    ├── applied-case-study.md      # early execution notes
+    └── playbook.md                # main deliverable: applied playbook
+
     scripts/
-    └── fetch_transcripts.py   # Python + Supadata API automation
+    └── fetch_transcripts.py       # Python + Supadata API automation
 
 ---
 
