@@ -159,8 +159,9 @@ Why: Community is a place where relationships happen. Audience is the
 supply of potential relationships. Without audience, community launch 
 has no seed population.
 
-Source: David Spinks, "audience before community" framework, and Rosie 
-Sherry's Rosieland-in-public case study. [verify link]
+Source: David Spinks, *The Business of Belonging* (Wiley, 2021) and 
+LinkedIn: "Building a Community Business 101, Day 1: Who are you 
+building for?" (7 June 2026): https://www.linkedin.com/posts/davidspinks_building-a-community-business-101-day-1-activity-7467254388118700032-7XCd. Reinforced by Rosie Sherry's Rosieland-in-public case study. See [sources.md](sources.md).
 
 **10. Seed the community with 20 to 50 hand-selected members before 
 opening to public.**
@@ -169,9 +170,10 @@ Why: The first 50 members shape culture more than the next 5,000.
 Curation at seed stage compounds. Public launch to strangers rarely 
 produces a healthy community.
 
-Source: David Spinks, *The Business of Belonging*, chapter on 
-"seeding rituals" (2021). Rosie Sherry's Ministry of Testing early 
-history reinforces this. [verify link]
+Source: David Spinks, *The Business of Belonging* (Wiley, 2021), 
+chapter on seeding rituals. Rosie Sherry's Ministry of Testing early 
+history reinforces this pattern. See [sources.md](sources.md) for 
+Rosie Sherry references.
 
 **11. Publish a clear community charter or code of conduct before 
 public launch.**
