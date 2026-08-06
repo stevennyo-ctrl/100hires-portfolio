@@ -60,8 +60,9 @@ Why: Community amplifies whatever product experience already exists.
 If members join a community around a product that does not solve their 
 problem well, community will accelerate churn, not retention.
 
-Source: Rosie Sherry, Rosieland blog posts on "audience before product" 
-(2023 to 2024). [verify link]
+Source: Rosie Sherry, LinkedIn: "Valuing the work you create 
+(Rosieland pricing)" (14 June 2026), on building value before pricing: 
+https://www.linkedin.com/posts/rosiesherry_a-year-or-so-ago-i-bumped-up-the-price-tag-activity-7470848932504559616-Xdw7
 
 **3. Choose your community's business function before choosing a 
 platform.**
@@ -104,8 +105,9 @@ matters is protecting community from short-term lead-gen pressure,
 which is easier with founder direct involvement than with a 
 Marketing-driven KPI structure.
 
-Source: My reading of Rosie Sherry and MarketingOps early days 
-(2016 to 2018). [verify link]
+Source: My reading of Rosie Sherry's Ministry of Testing history and 
+Mike Rizzo's MarketingOps early days (started 2017). See 
+[sources.md](sources.md) for content references.
 
 **6. Hire one dedicated paid community manager before recruiting 
 volunteers.**
