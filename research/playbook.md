@@ -639,7 +639,7 @@ send DMs with the right tone. AI saved five hours of manual reading.
 The human focused on the work that needs empathy and judgment. Neither 
 was replaced. Both were amplified.
 
-**Why this matters for AI-native companies like 100Hires:** A company 
+**Why this matters for AI-native companies:** A company 
 whose product is AI-native cannot afford a community framing that 
 positions AI as inherently incapable. That's not just misaligned with 
 the product. It signals to the market that even the community leader 
