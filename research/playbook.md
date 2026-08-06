@@ -50,8 +50,9 @@ Why: Community ROI is back-loaded. Every expert in my research who
 succeeded had leadership willing to fund the program past the point 
 where hard revenue attribution was clean.
 
-Source: David Spinks, *The Business of Belonging* (2021), reinforced 
-by Erica Kuhl podcast interviews (2023). [verify link]
+Source: David Spinks, *The Business of Belonging* (Wiley, 2021). 
+Reinforced by Erica Kuhl, YouTube: Uncommon Conversations with Common 
+Room.
 
 **2. Confirm product-market fit signals before investing in community.**
 
@@ -83,10 +84,11 @@ Why: Community's highest-value output is a product feedback loop.
 Marketing ownership creates pressure to convert community into MQL 
 production, which degrades feedback quality.
 
-Source: Erica Kuhl's account of moving Trailblazer from Marketing to 
-Product at Salesforce (podcast interviews, 2022 to 2023). Mike Rizzo 
-argues the stronger version: community IS a product function 
-(LinkedIn, 2024). [verify link]
+Source: Erica Kuhl, YouTube: Uncommon Conversations with Common Room 
+(discussion of Trailblazer's move from Marketing to Product at 
+Salesforce). Mike Rizzo argues the stronger version, community IS a 
+product function, in LinkedIn post "The Deep Cut newsletter launch" 
+(14 June 2026): https://www.linkedin.com/posts/mikedrizzo_marketingops-gtmops-gtmpros-activity-7471312136758054912-evKE
 
 **Departure from Joel Primack:** Joel defends marketing alignment, 
 which works when top-of-funnel goals dominate. My position is that 
@@ -137,9 +139,10 @@ onto. Justify it with specific needs: CRM integration, product feedback
 pipeline, enterprise sales enablement. Not with a vague desire to 
 "own the community."
 
-Source: Erica Kuhl on Trailblazer's owned platform decision (interviews, 
-2022 to 2023), balanced by Mike Rizzo's cost-benefit critique (2024). 
-[verify link]
+Source: Erica Kuhl, YouTube: Uncommon Conversations with Common Room 
+(on Trailblazer's owned platform decision). Balanced by Mike Rizzo, 
+LinkedIn: "The Deep Cut newsletter launch" (14 June 2026), which 
+demonstrates community-led product built on Slack: https://www.linkedin.com/posts/mikedrizzo_marketingops-gtmops-gtmpros-activity-7471312136758054912-evKE
 
 **Departure from many "own your data" advocates:** Do not build owned 
 platform because it feels strategic. That is ego, not strategy. See 
@@ -196,9 +199,9 @@ member-to-member interactions.
 Mature stage: retention lift, expansion revenue, referral attribution, 
 support deflection, revenue influence.
 
-Source: Erica Kuhl's "health metrics AND business north-star metrics" 
-framework (podcast interviews, 2022 to 2023). Extended in Section 2, 
-Tension 3. [verify link]
+Source: Erica Kuhl, YouTube: Uncommon Conversations with Common Room 
+(on V2MOM applied to community strategy). Reinforced by LinkedIn: 
+"The new community mandate" (March 2026): https://www.linkedin.com/posts/ericakuhl_on-demand-webinar-community-outlook-2026-activity-7431785549180391424-n8zZ. Extended in Section 2, Tension 3.
 
 **13. Build a Cross-Functional Value Ledger for CFO conversations.**
 
@@ -281,8 +284,8 @@ Why: Advocacy runs on trust. Small curated programs preserve trust.
 Large open programs dilute it. Erica Kuhl's Salesforce MVP program is 
 the case study: NDA-bound, structured, deeply engaged.
 
-Source: Erica Kuhl on Salesforce MVP program (podcast interviews, 
-2022). [verify link]
+Source: Erica Kuhl, YouTube: Uncommon Conversations with Common Room 
+(discussion of Salesforce MVP program structure).
 
 **20. Review platform decision annually.**
 
